@@ -1,0 +1,108 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Yields by State",
+    "width": 350,
+    "height": 300,
+    "params": [
+        {
+            "name": "Year_selection",
+            "value": 2023,
+            "bind": {
+                "input": "range",
+                "min": 2010,
+                "max": 2023,
+                "step": 1,
+                "name": "Year: "
+            }
+        }
+    ],
+    "projection": {
+        "type": "equirectangular",
+        "center": [
+            132.10,
+            -23.02
+        ],
+        "scale": 400
+    },
+    "layer": [
+        {
+            "data": {
+              "url": "json/Australian-Wine-Regions-Graticules.json",
+              "format": {
+                "type": "topojson",
+                "feature": "ne_110m_graticules_10"
+              }
+            },
+            "mark": {
+              "type": "geoshape",
+              "fillOpacity": 0,
+              "stroke": "lightgrey",
+              "strokeWidth": 0.5
+            }
+          },
+        {
+            "data": {
+                "url": "data/State-Data.csv"
+            },
+            "transform": [
+                {
+                    "lookup": "State",
+                    "from": {
+                        "data": {
+                            "url": "json/Australian-Wine-Regions-Graticules.json",
+                            "format": {
+                                "type": "topojson",
+                                "feature": "STE_2021_AUST_GDA2020"
+                            }
+                        },
+                        "key": "properties.STE_NAME21"
+                    },
+                    "as": "geo"
+                },
+                {
+                    "filter": "datum.Year == Year_selection"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "stroke": "white",
+                "strokeWidth": 1
+            },
+            "encoding": {
+                "shape": {
+                    "field": "geo",
+                    "type": "geojson"
+                },
+                "color": {
+                    "scale": {
+                        "domain": [
+                            0,
+                            15
+                        ]
+                    },
+                    "field": "Yield",
+                    "type": "quantitative",
+                    "title": "Yield (t/ha)"
+                },
+                "tooltip": [
+                    {
+                        "field": "State",
+                        "type": "nominal",
+                        "title": "State"
+                    },
+                    {
+                        "field": "Year",
+                        "type": "quantitative",
+                        "title": "Year"
+                    },
+                    {
+                        "field": "Yield",
+                        "type": "quantitative",
+                        "title": "Yield (t/ha)",
+                        "format": ".2f"
+                    }
+                ]
+            }
+        }
+    ]
+}

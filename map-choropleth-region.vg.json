@@ -1,0 +1,205 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Yields by Region",
+  "width": 350,
+  "height": 300,
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2010,
+        "max": 2023,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "zoom_level",
+      "value": 400,
+      "bind": {
+        "input": "range",
+        "min": 400,
+        "max": 3000,
+        "step": 100,
+        "name": "Zoom: "
+      }
+    },
+    {
+      "name": "center_to",
+      "value": [
+        132.10,
+        -23.02
+      ],
+      "bind": {
+        "input": "select",
+        "options": [
+          [
+            132.10,
+            -23.02
+          ],
+          [
+            147.01,
+            -32.09
+          ],
+          [
+            133.21,
+            -19.23
+          ],
+          [
+            144.25,
+            -22.29
+          ],
+          [
+            135.45,
+            -30.03
+          ],
+          [
+            146.35,
+            -42.01
+          ],
+          [
+            144.16,
+            -36.51
+          ],
+          [
+            118.00,
+            -34.00
+          ]
+        ],
+        "labels": [
+          "Australia",
+          "New South Wales",
+          "Northern Territory",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Victoria",
+          "Western Australia"
+        ],
+        "name": "Map Centre: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equirectangular",
+    "center": {
+      "expr": "center_to"
+    },
+    "scale": {
+      "expr": "zoom_level"
+    }
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "json/Australian-Wine-Regions-Graticules.json",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_110m_graticules_10"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fillOpacity": 0,
+        "stroke": "lightgrey",
+        "strokeWidth": 0.5
+      }
+    },
+    {
+      "data": {
+        "url": "json/Australian-Wine-Regions-Graticules.json",
+        "format": {
+          "type": "topojson",
+          "feature": "STE_2021_AUST_GDA2020"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available here in ' + datum.properties.STE_NAME21",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "tooltip": {
+          "field": "note"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/Region-Data.csv"
+      },
+      "transform": [
+        {
+          "lookup": "Region",
+          "from": {
+            "data": {
+              "url": "json/Australian-Wine-Regions.json",
+              "format": {
+                "type": "topojson",
+                "feature": "Wine_Geographical_Indications_Australia_2023"
+              }
+            },
+            "key": "properties.GI_NAME"
+          },
+          "as": "geo"
+        },
+        {
+          "filter": "datum.Year == Year_selection"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "black",
+        "strokeWidth": 0.8
+      },
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "Yield",
+          "type": "quantitative",
+          "title": "Yield (t/ha)",
+          "scale": {
+            "domain":[
+              0,
+              25
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Region",
+            "type": "nominal",
+            "title": "Region"
+          },
+          {
+            "field": "Yield",
+            "type": "quantitative",
+            "title": "Yield (t/ha)"
+          },
+          {
+            "field": "Production",
+            "type": "quantitative",
+            "title": "Production (t)"
+          },
+          {
+            "field": "Area",
+            "type": "quantitative",
+            "title": "Area (ha)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1657 @@
+Region,Year,Yield,Production,Area
+Adelaide Hills,2001,13.4,18921,1396
+Adelaide Hills,2002,5.9,11058,1860
+Adelaide Hills,2003,6.6,16482,2373
+Adelaide Hills,2004,14.2,38646,2661
+Adelaide Hills,2005,9.2,27238,2907
+Adelaide Hills,2006,7.6,24786,3278
+Adelaide Hills,2007,7.5,25793,3433
+Adelaide Hills,2008,9.7,34618,3547
+Adelaide Hills,2009,6.8,24904,3619
+Adelaide Hills,2010,7.6,28161,3681
+Adelaide Hills,2011,5.8,21872,3744
+Adelaide Hills,2012,4.5,17279,3816
+Adelaide Hills,2013,7.4,28559,3821
+Adelaide Hills,2014,4.7,17875,3798
+Adelaide Hills,2015,6.1,22943,3777
+Adelaide Hills,2016,7.5,27670,3746
+Adelaide Hills,2017,7.2,27335,3781
+Adelaide Hills,2018,7.3,27316,3747
+Adelaide Hills,2019,4.3,16002,3674
+Adelaide Hills,2020,3.3,12048,3622
+Adelaide Hills,2021,8.3,29991,3613
+Adelaide Hills,2022,5.7,20327,3607
+Adelaide Hills,2023,5.1,18125,3587
+Adelaide Plains,2001,0,0,0
+Adelaide Plains,2002,17.3,6759,380
+Adelaide Plains,2003,15.4,5512,359
+Adelaide Plains,2004,15.4,7004,455
+Adelaide Plains,2005,15,7686,519
+Adelaide Plains,2006,9.6,4881,519
+Adelaide Plains,2007,8.8,4965,552
+Adelaide Plains,2008,8.6,6492,748
+Adelaide Plains,2009,5,3720,713
+Adelaide Plains,2010,6.9,4780,693
+Adelaide Plains,2011,8,5203,651
+Adelaide Plains,2012,6.9,4459,661
+Adelaide Plains,2013,6,3871,657
+Adelaide Plains,2014,7,4359,645
+Adelaide Plains,2015,6.9,3092,516
+Adelaide Plains,2016,9.4,4396,513
+Adelaide Plains,2017,8.4,3497,473
+Adelaide Plains,2018,6.7,2911,468
+Adelaide Plains,2019,6.1,2964,481
+Adelaide Plains,2020,5.2,2125,443
+Adelaide Plains,2021,8.2,2905,386
+Adelaide Plains,2022,5,1902,374
+Adelaide Plains,2023,4.9,1519,351
+Alpine Valleys,2001,10.4,8395,802
+Alpine Valleys,2002,8.1,8752,1076
+Alpine Valleys,2003,8.6,7997,925
+Alpine Valleys,2004,12.3,11608,937
+Alpine Valleys,2005,9.8,8799,891
+Alpine Valleys,2006,8.5,7339,858
+Alpine Valleys,2007,3.5,2807,794
+Alpine Valleys,2008,10.6,8929,849
+Alpine Valleys,2009,3.8,1946,768
+Alpine Valleys,2010,6,4221,704
+Alpine Valleys,2011,1.6,564,537
+Alpine Valleys,2012,6.7,2647,392
+Alpine Valleys,2013,3.9,1012,328
+Alpine Valleys,2014,6.6,1318,282
+Alpine Valleys,2015,7.7,2068,257
+Alpine Valleys,2016,8.1,2028,261
+Alpine Valleys,2017,10.1,2613,265
+Alpine Valleys,2018,8,2087,268
+Alpine Valleys,2019,10,2665,272
+Alpine Valleys,2020,4.7,504,272
+Alpine Valleys,2021,10.2,2721,272
+Alpine Valleys,2022,10.8,2900,272
+Alpine Valleys,2023,9.5,2473,272
+Barossa Valley,2001,8.5,53836,6257
+Barossa Valley,2002,8.7,57631,6544
+Barossa Valley,2003,7,48830,6903
+Barossa Valley,2004,9.3,70571,7447
+Barossa Valley,2005,10,84906,8406
+Barossa Valley,2006,8.5,79648,9340
+Barossa Valley,2007,4,39730,9755
+Barossa Valley,2008,6.5,66815,10161
+Barossa Valley,2009,4.9,51602,10540
+Barossa Valley,2010,5.7,60796,10508
+Barossa Valley,2011,5.9,63366,10606
+Barossa Valley,2012,4.7,51896,10948
+Barossa Valley,2013,3.9,43827,10969
+Barossa Valley,2014,4,44337,10914
+Barossa Valley,2015,4.1,44706,10750
+Barossa Valley,2016,5,54371,10795
+Barossa Valley,2017,7.4,81449,10852
+Barossa Valley,2018,5.1,56969,11071
+Barossa Valley,2019,3.6,40984,11173
+Barossa Valley,2020,2.5,29071,11323
+Barossa Valley,2021,5.4,61409,11419
+Barossa Valley,2022,4.3,48572,11445
+Barossa Valley,2023,5.7,66031,11638
+Beechworth,2001,4,141,34
+Beechworth,2002,6.1,275,44
+Beechworth,2003,3.9,361,92
+Beechworth,2004,6.6,575,86
+Beechworth,2005,7.5,710,94
+Beechworth,2006,6.4,530,82
+Beechworth,2007,2.3,189,83
+Beechworth,2008,8.3,813,96
+Beechworth,2009,1.8,46,71
+Beechworth,2010,3,175,57
+Beechworth,2011,2.8,93,72
+Beechworth,2012,5.8,573,98
+Beechworth,2013,0.9,37,97
+Beechworth,2014,0.4,18,98
+Beechworth,2015,5.9,635,106
+Beechworth,2016,2.9,316,115
+Beechworth,2017,2.3,269,123
+Beechworth,2018,3.1,396,132
+Beechworth,2019,2.7,366,140
+Beechworth,2020,0.3,17,140
+Beechworth,2021,2.7,384,140
+Beechworth,2022,3.1,438,140
+Beechworth,2023,2.5,358,140
+Bendigo,2001,5.2,3208,606
+Bendigo,2002,3.5,2797,784
+Bendigo,2003,3.8,2624,688
+Bendigo,2004,5.1,3374,660
+Bendigo,2005,5.2,3538,668
+Bendigo,2006,4,2657,650
+Bendigo,2007,3.3,2841,846
+Bendigo,2008,7.5,7006,928
+Bendigo,2009,2.6,1976,834
+Bendigo,2010,4.1,3189,771
+Bendigo,2011,0.7,447,702
+Bendigo,2012,3.1,1965,640
+Bendigo,2013,2.8,1570,625
+Bendigo,2014,2.3,1311,615
+Bendigo,2015,3.9,2411,610
+Bendigo,2016,1.2,674,615
+Bendigo,2017,2.6,1582,620
+Bendigo,2018,2.8,1656,625
+Bendigo,2019,3.5,2154,631
+Bendigo,2020,2.3,1399,631
+Bendigo,2021,2.8,1774,631
+Bendigo,2022,2.4,1523,631
+Bendigo,2023,1.1,663,631
+Big Rivers - other,2001,10.2,10425,1015
+Big Rivers - other,2002,12.6,9885,783
+Big Rivers - other,2003,8.1,7606,936
+Big Rivers - other,2004,11.1,8429,756
+Big Rivers - other,2005,13,9812,750
+Big Rivers - other,2006,10.1,6274,665
+Big Rivers - other,2007,9.4,4206,477
+Big Rivers - other,2008,10.4,4262,459
+Big Rivers - other,2009,21.2,8284,494
+Big Rivers - other,2010,11.6,7031,629
+Big Rivers - other,2011,12.7,3238,528
+Big Rivers - other,2012,9.5,4750,496
+Big Rivers - other,2013,20.5,11343,527
+Big Rivers - other,2014,5.6,4749,558
+Big Rivers - other,2015,16.7,10107,604
+Big Rivers - other,2016,10.8,6550,604
+Big Rivers - other,2017,12.7,7881,604
+Big Rivers - other,2018,11.2,7288,604
+Big Rivers - other,2019,8.6,5687,604
+Big Rivers - other,2020,11.2,7369,604
+Big Rivers - other,2021,12,7799,604
+Big Rivers - other,2022,9.5,5817,604
+Big Rivers - other,2023,1.4,644,604
+Blackwood Valley,2001,7.9,3996,501
+Blackwood Valley,2002,7.8,4900,629
+Blackwood Valley,2003,7,4680,664
+Blackwood Valley,2004,9.8,5348,540
+Blackwood Valley,2005,6.9,3916,566
+Blackwood Valley,2006,5.1,2969,574
+Blackwood Valley,2007,5.2,2021,388
+Blackwood Valley,2008,7.1,2564,363
+Blackwood Valley,2009,2.3,641,305
+Blackwood Valley,2010,5.1,1262,249
+Blackwood Valley,2011,0.3,95,293
+Blackwood Valley,2012,5.1,1746,342
+Blackwood Valley,2013,0.7,211,329
+Blackwood Valley,2014,0.4,85,316
+Blackwood Valley,2015,5.4,1628,303
+Blackwood Valley,2016,1.4,438,306
+Blackwood Valley,2017,3,930,309
+Blackwood Valley,2018,2.6,819,311
+Blackwood Valley,2019,2.3,706,314
+Blackwood Valley,2020,2.2,631,314
+Blackwood Valley,2021,2.9,857,314
+Blackwood Valley,2022,3.9,1240,314
+Blackwood Valley,2023,4.2,1337,314
+Canberra District,2001,4.4,549,125
+Canberra District,2002,4.5,1391,307
+Canberra District,2003,3.9,996,254
+Canberra District,2004,5.8,1923,328
+Canberra District,2005,5.1,1824,352
+Canberra District,2006,4.8,1738,360
+Canberra District,2007,2.3,1170,499
+Canberra District,2008,6.8,3164,461
+Canberra District,2009,2.1,784,472
+Canberra District,2010,4.1,2005,487
+Canberra District,2011,2.4,297,455
+Canberra District,2012,1.7,740,427
+Canberra District,2013,0.7,83,392
+Canberra District,2014,0.8,97,362
+Canberra District,2015,4.6,1556,334
+Canberra District,2016,1.3,432,330
+Canberra District,2017,1.1,352,326
+Canberra District,2018,0.6,211,322
+Canberra District,2019,1.6,515,318
+Canberra District,2020,0,0,318
+Canberra District,2021,1.5,508,318
+Canberra District,2022,0.9,307,318
+Canberra District,2023,1.4,456,318
+Central Ranges - other,2001,1.9,583,302
+Central Ranges - other,2002,2.5,314,129
+Central Ranges - other,2003,5.6,1356,239
+Central Ranges - other,2004,1.8,350,187
+Central Ranges - other,2005,4.2,764,184
+Central Ranges - other,2006,2.9,537,185
+Central Ranges - other,2007,6.5,1357,212
+Central Ranges - other,2008,13.3,2658,199
+Central Ranges - other,2009,18.8,3677,210
+Central Ranges - other,2010,3.8,869,226
+Central Ranges - other,2011,38.4,4676,135
+Central Ranges - other,2012,1.3,69,56
+Central Ranges - other,2013,26.4,3121,161
+Central Ranges - other,2014,8.8,1830,267
+Central Ranges - other,2015,5.2,2040,389
+Central Ranges - other,2016,8.8,3098,389
+Central Ranges - other,2017,14.2,5201,389
+Central Ranges - other,2018,8.8,3353,389
+Central Ranges - other,2019,9.6,3689,389
+Central Ranges - other,2020,3.1,1186,389
+Central Ranges - other,2021,3.6,1391,389
+Central Ranges - other,2022,3,1144,389
+Central Ranges - other,2023,3.6,1388,389
+Central Victoria - other,2001,7.1,6246,876
+Central Victoria - other,2002,3.4,4294,1259
+Central Victoria - other,2003,5.1,3280,638
+Central Victoria - other,2004,5,520,103
+Central Victoria - other,2005,5.7,1691,296
+Central Victoria - other,2006,8.9,2971,329
+Central Victoria - other,2007,2.5,208,88
+Central Victoria - other,2008,5.8,460,78
+Central Victoria - other,2009,92.2,4254,65
+Central Victoria - other,2010,6.1,347,56
+Central Victoria - other,2011,37.3,3050,116
+Central Victoria - other,2012,7.2,1324,183
+Central Victoria - other,2013,40.9,5670,182
+Central Victoria - other,2014,1.6,302,185
+Central Victoria - other,2015,6.6,1281,190
+Central Victoria - other,2016,13.7,2078,190
+Central Victoria - other,2017,25.7,3854,190
+Central Victoria - other,2018,16.1,2928,190
+Central Victoria - other,2019,20.3,3872,190
+Central Victoria - other,2020,14,2506,190
+Central Victoria - other,2021,26.5,4699,190
+Central Victoria - other,2022,25.6,4057,190
+Central Victoria - other,2023,25.6,3924,190
+Clare Valley,2001,7.5,23495,3073
+Clare Valley,2002,7.3,27291,3705
+Clare Valley,2003,4.5,19203,4209
+Clare Valley,2004,7.2,33021,4513
+Clare Valley,2005,6.3,30480,4816
+Clare Valley,2006,6.9,35354,5069
+Clare Valley,2007,3.1,17258,5526
+Clare Valley,2008,4.1,22763,5421
+Clare Valley,2009,4.6,25215,5437
+Clare Valley,2010,3.9,21675,5423
+Clare Valley,2011,3.4,18801,5398
+Clare Valley,2012,3.6,19849,5387
+Clare Valley,2013,3.3,17999,5265
+Clare Valley,2014,3.8,19793,5206
+Clare Valley,2015,3.1,16040,5130
+Clare Valley,2016,4.1,20795,5102
+Clare Valley,2017,5.4,27753,5053
+Clare Valley,2018,4.6,23161,4918
+Clare Valley,2019,4,20009,4861
+Clare Valley,2020,2.4,11947,4896
+Clare Valley,2021,4,19856,4863
+Clare Valley,2022,5.4,26193,4973
+Clare Valley,2023,4.6,22986,4952
+Coonawarra,2001,13.7,53125,3841
+Coonawarra,2002,4,17802,4367
+Coonawarra,2003,4.6,23036,4975
+Coonawarra,2004,12.3,62650,5054
+Coonawarra,2005,6.9,36514,5250
+Coonawarra,2006,6,32494,5401
+Coonawarra,2007,2.9,17027,5737
+Coonawarra,2008,6.9,40551,5848
+Coonawarra,2009,6,34652,5679
+Coonawarra,2010,6.4,36094,5583
+Coonawarra,2011,4.5,26109,5670
+Coonawarra,2012,4.1,23920,5704
+Coonawarra,2013,6.1,34301,5602
+Coonawarra,2014,4.2,23482,5488
+Coonawarra,2015,4.9,27138,5456
+Coonawarra,2016,6.6,35497,5447
+Coonawarra,2017,6.5,36510,5561
+Coonawarra,2018,5.1,29692,5705
+Coonawarra,2019,6.5,37242,5682
+Coonawarra,2020,4.6,26241,5586
+Coonawarra,2021,8.9,50198,5579
+Coonawarra,2022,6.6,36121,5479
+Coonawarra,2023,3.6,20373,5641
+Cowra,2001,10.4,16067,1533
+Cowra,2002,7.6,11536,1514
+Cowra,2003,9,14427,1585
+Cowra,2004,10.1,16619,1630
+Cowra,2005,12.9,29255,2258
+Cowra,2006,10.7,19799,1843
+Cowra,2007,8.8,18806,2116
+Cowra,2008,11.2,23265,2071
+Cowra,2009,5.1,8129,1727
+Cowra,2010,3.6,5151,1427
+Cowra,2011,3.8,5046,1349
+Cowra,2012,3.5,4501,1293
+Cowra,2013,5,5390,1072
+Cowra,2014,0.8,642,855
+Cowra,2015,7.9,5105,642
+Cowra,2016,5.9,4140,714
+Cowra,2017,5.1,4014,786
+Cowra,2018,5,4246,858
+Cowra,2019,3.2,2938,929
+Cowra,2020,3.1,2754,929
+Cowra,2021,2.7,2286,929
+Cowra,2022,0.1,165,929
+Cowra,2023,3.9,2962,929
+Eden Valley,2001,7.2,11131,1221
+Eden Valley,2002,5.4,8396,1277
+Eden Valley,2003,5.1,9447,1804
+Eden Valley,2004,8.7,16319,1864
+Eden Valley,2005,7.3,15615,2124
+Eden Valley,2006,5.7,12703,2170
+Eden Valley,2007,3.8,8606,2248
+Eden Valley,2008,6.2,13793,2186
+Eden Valley,2009,3.8,8484,2203
+Eden Valley,2010,4.9,10876,2215
+Eden Valley,2011,5.6,12261,2190
+Eden Valley,2012,4.5,9961,2207
+Eden Valley,2013,4.4,9799,2200
+Eden Valley,2014,2.9,6461,2202
+Eden Valley,2015,4.4,9657,2186
+Eden Valley,2016,4.5,9991,2219
+Eden Valley,2017,5.3,11975,2231
+Eden Valley,2018,5,11595,2274
+Eden Valley,2019,2.4,5478,2184
+Eden Valley,2020,1.6,3623,2230
+Eden Valley,2021,4.2,9668,2253
+Eden Valley,2022,3.1,6842,2195
+Eden Valley,2023,3.1,7128,2267
+Southern Fleurieu,2001,19.1,5065,256
+Southern Fleurieu,2002,7.7,4111,529
+Southern Fleurieu,2003,9.8,7111,724
+Southern Fleurieu,2004,11.1,10426,932
+Southern Fleurieu,2005,9.1,9980,1150
+Southern Fleurieu,2006,10.8,14641,1353
+Southern Fleurieu,2007,6.9,10135,1448
+Southern Fleurieu,2008,12.5,21256,1686
+Southern Fleurieu,2009,9.6,15816,1731
+Southern Fleurieu,2010,6.5,11714,1794
+Southern Fleurieu,2011,4.8,8784,1836
+Southern Fleurieu,2012,4.9,9154,1858
+Southern Fleurieu,2013,6.7,12861,1907
+Southern Fleurieu,2014,5.3,10129,1889
+Southern Fleurieu,2015,5.9,11197,1884
+Southern Fleurieu,2016,7.5,13254,1879
+Southern Fleurieu,2017,6.4,12349,1878
+Southern Fleurieu,2018,5.2,9376,1825
+Southern Fleurieu,2019,3.6,6594,1834
+Southern Fleurieu,2020,3.1,6109,1821
+Southern Fleurieu,2021,5.2,10102,1816
+Southern Fleurieu,2022,24,43357,1820
+Southern Fleurieu,2023,2.9,5074,1738
+Geelong,2001,6.8,2215,321
+Geelong,2002,1.8,805,428
+Geelong,2003,3.5,1348,383
+Geelong,2004,6.2,3110,494
+Geelong,2005,5.9,2633,439
+Geelong,2006,4.7,2172,458
+Geelong,2007,2.3,1041,447
+Geelong,2008,6,2771,459
+Geelong,2009,0,0,484
+Geelong,2010,3.9,2025,514
+Geelong,2011,4.3,366,450
+Geelong,2012,3.1,1248,398
+Geelong,2013,1.6,90,353
+Geelong,2014,2.6,133,314
+Geelong,2015,3.5,1005,284
+Geelong,2016,3,975,329
+Geelong,2017,3.3,1242,374
+Geelong,2018,4.1,1703,419
+Geelong,2019,1.9,870,463
+Geelong,2020,2.1,983,463
+Geelong,2021,2.5,1159,463
+Geelong,2022,2.4,1103,463
+Geelong,2023,2.5,1128,463
+Geographe,2001,6.2,3008,479
+Geographe,2002,6.5,4038,625
+Geographe,2003,6,3886,638
+Geographe,2004,7.4,5136,692
+Geographe,2005,6.7,5124,761
+Geographe,2006,5.9,3563,598
+Geographe,2007,6.2,5613,900
+Geographe,2008,7.4,6600,881
+Geographe,2009,2.2,2078,1029
+Geographe,2010,5.2,6231,1181
+Geographe,2011,2.1,2251,1100
+Geographe,2012,6.5,6764,1025
+Geographe,2013,4,2947,781
+Geographe,2014,5.2,2247,555
+Geographe,2015,5.1,1744,337
+Geographe,2016,7.1,3042,449
+Geographe,2017,4.4,2447,560
+Geographe,2018,2.9,1935,672
+Geographe,2019,1.7,1357,787
+Geographe,2020,2.1,1642,787
+Geographe,2021,2.5,2005,787
+Geographe,2022,2.7,2160,787
+Geographe,2023,2.6,2013,787
+Gippsland,2001,5,869,173
+Gippsland,2002,1.3,222,161
+Gippsland,2003,2.8,496,175
+Gippsland,2004,3.5,617,171
+Gippsland,2005,3.4,618,180
+Gippsland,2006,3,571,188
+Gippsland,2007,2.5,485,194
+Gippsland,2008,4.5,837,185
+Gippsland,2009,0,0,207
+Gippsland,2010,3.2,804,235
+Gippsland,2011,0,0,233
+Gippsland,2012,2.4,583,240
+Gippsland,2013,0,0,214
+Gippsland,2014,0,0,196
+Gippsland,2015,3.1,561,179
+Gippsland,2016,0.3,52,188
+Gippsland,2017,1,200,198
+Gippsland,2018,0.2,32,207
+Gippsland,2019,0.8,162,216
+Gippsland,2020,0.7,149,216
+Gippsland,2021,1.1,232,216
+Gippsland,2022,0.7,154,216
+Gippsland,2023,1.2,259,216
+Glenrowan,2001,0,0,0
+Glenrowan,2002,0,0,0
+Glenrowan,2003,0,0,0
+Glenrowan,2004,9.3,1972,210
+Glenrowan,2005,9.1,1916,209
+Glenrowan,2006,8.1,1651,202
+Glenrowan,2007,2.8,588,205
+Glenrowan,2008,6.4,1329,205
+Glenrowan,2009,0,0,198
+Glenrowan,2010,3.2,651,202
+Glenrowan,2011,0,0,179
+Glenrowan,2012,5.2,910,175
+Glenrowan,2013,1.2,100,169
+Glenrowan,2014,0,0,164
+Glenrowan,2015,5.5,995,178
+Glenrowan,2016,4.1,759,184
+Glenrowan,2017,6.5,1232,190
+Glenrowan,2018,4.9,976,196
+Glenrowan,2019,4.1,870,202
+Glenrowan,2020,1.7,381,202
+Glenrowan,2021,3.1,661,202
+Glenrowan,2022,6.5,1317,202
+Glenrowan,2023,3.7,792,202
+Goulburn Valley,2001,9,9818,1089
+Goulburn Valley,2002,6.5,6442,991
+Goulburn Valley,2003,5.5,5590,1006
+Goulburn Valley,2004,7.5,7852,1042
+Goulburn Valley,2005,7.7,8620,1109
+Goulburn Valley,2006,6.3,10174,1614
+Goulburn Valley,2007,4.1,5667,1368
+Goulburn Valley,2008,9.9,15104,1525
+Goulburn Valley,2009,5.1,6379,1567
+Goulburn Valley,2010,7.2,11672,1612
+Goulburn Valley,2011,5.5,6706,1479
+Goulburn Valley,2012,7.1,9705,1369
+Goulburn Valley,2013,4.6,4290,1231
+Goulburn Valley,2014,6.8,6467,1115
+Goulburn Valley,2015,10,10270,1017
+Goulburn Valley,2016,8.9,9290,1064
+Goulburn Valley,2017,7.9,8646,1112
+Goulburn Valley,2018,5.4,6237,1160
+Goulburn Valley,2019,7,8330,1211
+Goulburn Valley,2020,5.4,6411,1211
+Goulburn Valley,2021,7.2,8609,1211
+Goulburn Valley,2022,5.7,6854,1211
+Goulburn Valley,2023,2.1,2487,1211
+Grampians,2001,4.4,1765,423
+Grampians,2002,2.6,1299,498
+Grampians,2003,2.8,1405,490
+Grampians,2004,6.7,3446,511
+Grampians,2005,4.7,2802,596
+Grampians,2006,3.6,2153,591
+Grampians,2007,3.1,1697,536
+Grampians,2008,4.1,2317,563
+Grampians,2009,5.4,2521,531
+Grampians,2010,5.4,2753,505
+Grampians,2011,3.4,1296,534
+Grampians,2012,2.1,1206,563
+Grampians,2013,2.5,1145,541
+Grampians,2014,2.6,1102,523
+Grampians,2015,1.8,962,510
+Grampians,2016,2.4,1295,540
+Grampians,2017,6,3387,570
+Grampians,2018,3,1844,599
+Grampians,2019,3.6,2313,633
+Grampians,2020,2.1,1371,633
+Grampians,2021,5.3,3412,633
+Grampians,2022,3.1,1964,633
+Grampians,2023,2,1276,633
+Granite Belt,2001,7.6,1080,141
+Granite Belt,2002,12.1,2101,173
+Granite Belt,2003,6.9,970,140
+Granite Belt,2004,13.9,2507,180
+Granite Belt,2005,14,2597,184
+Granite Belt,2006,12.3,2350,189
+Granite Belt,2007,7.5,1472,195
+Granite Belt,2008,11,2142,194
+Granite Belt,2009,9.7,1458,150
+Granite Belt,2010,2.4,799,331
+Granite Belt,2011,2.2,752,329
+Granite Belt,2012,2.1,734,333
+Granite Belt,2013,2.3,625,273
+Granite Belt,2014,2.3,578,246
+Granite Belt,2015,2.3,563,237
+Granite Belt,2016,2.7,681,265
+Granite Belt,2017,2.2,627,293
+Granite Belt,2018,1.4,442,322
+Granite Belt,2019,1.8,607,350
+Granite Belt,2020,0.2,66,350
+Granite Belt,2021,0.6,235,350
+Granite Belt,2022,0.9,299,350
+Granite Belt,2023,1.2,437,350
+Great Southern,2001,5.9,14242,2391
+Great Southern,2002,5.4,14724,2677
+Great Southern,2003,5.6,16159,2889
+Great Southern,2004,7.8,22775,2896
+Great Southern,2005,5.8,16292,2772
+Great Southern,2006,4.6,12463,2692
+Great Southern,2007,4.6,13162,2801
+Great Southern,2008,6.2,19722,3145
+Great Southern,2009,2,6101,2967
+Great Southern,2010,5.3,15046,2804
+Great Southern,2011,1.4,3372,2590
+Great Southern,2012,5.7,13839,2388
+Great Southern,2013,1.8,3837,2213
+Great Southern,2014,2.5,5076,2049
+Great Southern,2015,3.2,6205,1886
+Great Southern,2016,3.3,6723,2018
+Great Southern,2017,3.3,7174,2149
+Great Southern,2018,2,4541,2281
+Great Southern,2019,1.8,4569,2414
+Great Southern,2020,2.2,5450,2414
+Great Southern,2021,3.4,8298,2414
+Great Southern,2022,2.9,7104,2414
+Great Southern,2023,2,4834,2414
+Mount Gambier,2001,3.6,1400,394
+Mount Gambier,2002,5.4,2654,510
+Mount Gambier,2003,4.9,1770,363
+Mount Gambier,2004,6.1,1486,243
+Mount Gambier,2005,4.1,888,214
+Mount Gambier,2006,4.4,778,175
+Mount Gambier,2007,3.4,577,165
+Mount Gambier,2008,4.1,653,157
+Mount Gambier,2009,0,0,85
+Mount Gambier,2010,3.8,114,35
+Mount Gambier,2011,0,0,40
+Mount Gambier,2012,5.5,297,56
+Mount Gambier,2013,0,0,84
+Mount Gambier,2014,0,0,116
+Mount Gambier,2015,3.6,602,168
+Mount Gambier,2016,0.4,4,168
+Mount Gambier,2017,1.5,14,168
+Mount Gambier,2018,0,0,168
+Mount Gambier,2019,0.7,19,168
+Mount Gambier,2020,0,0,168
+Mount Gambier,2021,2,127,168
+Mount Gambier,2022,0,0,168
+Mount Gambier,2023,0,0,168
+Gundagai,2001,0,0,0
+Gundagai,2002,4,1644,404
+Gundagai,2003,8,4070,506
+Gundagai,2004,11.9,4181,349
+Gundagai,2005,13.8,5624,404
+Gundagai,2006,12.5,4742,380
+Gundagai,2007,8.9,5030,562
+Gundagai,2008,10.9,6194,564
+Gundagai,2009,10.2,4724,461
+Gundagai,2010,11,4518,408
+Gundagai,2011,5.2,1995,355
+Gundagai,2012,5.6,1833,333
+Gundagai,2013,15.7,4972,331
+Gundagai,2014,5.2,1661,330
+Gundagai,2015,7.2,2172,331
+Gundagai,2016,10.8,4364,406
+Gundagai,2017,10.1,4909,481
+Gundagai,2018,9.9,5627,557
+Gundagai,2019,5.4,3511,634
+Gundagai,2020,0.8,377,634
+Gundagai,2021,3.1,1958,634
+Gundagai,2022,7.8,5159,634
+Gundagai,2023,10.3,6723,634
+Hastings River,2001,2.3,228,117
+Hastings River,2002,3.4,169,49
+Hastings River,2003,4,146,37
+Hastings River,2004,3.9,97,24
+Hastings River,2005,4.8,96,19
+Hastings River,2006,5,102,20
+Hastings River,2007,7.1,128,17
+Hastings River,2008,6.8,126,18
+Hastings River,2009,0,0,18
+Hastings River,2010,3.9,70,18
+Hastings River,2011,0,0,16
+Hastings River,2012,4.2,55,14
+Hastings River,2013,0,0,9
+Hastings River,2014,0,0,8
+Hastings River,2015,4.6,52,12
+Hastings River,2016,0,0,15
+Hastings River,2017,3.4,29,18
+Hastings River,2018,0,0,21
+Hastings River,2019,0.2,5,23
+Hastings River,2020,0.6,9,23
+Hastings River,2021,0.2,3,23
+Hastings River,2022,0,1,23
+Hastings River,2023,2.2,18,23
+Heathcote,2001,0,0,0
+Heathcote,2002,0,0,0
+Heathcote,2003,3,1105,359
+Heathcote,2004,6.3,5086,795
+Heathcote,2005,6,5642,929
+Heathcote,2006,5.4,3116,575
+Heathcote,2007,4.9,6739,1348
+Heathcote,2008,9.1,12112,1317
+Heathcote,2009,5.1,5928,1265
+Heathcote,2010,6.8,8498,1245
+Heathcote,2011,5.5,6724,1293
+Heathcote,2012,6.4,9030,1405
+Heathcote,2013,6.9,8712,1275
+Heathcote,2014,6.2,7623,1212
+Heathcote,2015,6.3,7729,1164
+Heathcote,2016,5.7,7585,1287
+Heathcote,2017,7.6,10862,1409
+Heathcote,2018,5.7,8796,1532
+Heathcote,2019,5.9,9923,1686
+Heathcote,2020,4.2,7049,1686
+Heathcote,2021,5.3,9148,1686
+Heathcote,2022,5.5,9358,1686
+Heathcote,2023,3.4,5854,1686
+Henty,2001,7,1295,182
+Henty,2002,0.7,149,191
+Henty,2003,2.5,421,163
+Henty,2004,6.6,1216,184
+Henty,2005,4.4,868,196
+Henty,2006,4.8,955,196
+Henty,2007,2.5,496,192
+Henty,2008,6.2,1078,171
+Henty,2009,4.9,745,162
+Henty,2010,5.4,993,182
+Henty,2011,5.9,945,168
+Henty,2012,4.2,662,155
+Henty,2013,6.5,849,144
+Henty,2014,2.4,308,145
+Henty,2015,3.5,603,159
+Henty,2016,5,805,156
+Henty,2017,3.3,498,152
+Henty,2018,5.8,855,149
+Henty,2019,3.6,522,158
+Henty,2020,1.6,230,158
+Henty,2021,4,612,158
+Henty,2022,3.2,477,158
+Henty,2023,2.7,391,158
+Hilltops,2001,5.3,1970,382
+Hilltops,2002,7,3567,504
+Hilltops,2003,3.1,1132,365
+Hilltops,2004,5.9,3706,621
+Hilltops,2005,5.8,4345,742
+Hilltops,2006,5.3,3907,730
+Hilltops,2007,2.8,2132,738
+Hilltops,2008,6.2,4450,709
+Hilltops,2009,5.8,3000,586
+Hilltops,2010,4.2,2073,483
+Hilltops,2011,4.5,2195,530
+Hilltops,2012,5.8,3367,581
+Hilltops,2013,6.5,3456,566
+Hilltops,2014,3.5,1701,562
+Hilltops,2015,7,4011,566
+Hilltops,2016,4,2199,572
+Hilltops,2017,4.6,2630,578
+Hilltops,2018,3.6,2071,584
+Hilltops,2019,3,1799,590
+Hilltops,2020,1.8,1042,590
+Hilltops,2021,2,1151,590
+Hilltops,2022,2,1193,590
+Hilltops,2023,1.3,753,590
+Hunter,2001,6.7,26574,3946
+Hunter,2002,7.2,29786,4137
+Hunter,2003,5.3,23033,4302
+Hunter,2004,6.4,28457,4446
+Hunter,2005,5.4,23671,4379
+Hunter,2006,5.8,24945,4238
+Hunter,2007,4.3,19993,4563
+Hunter,2008,6.3,28151,4420
+Hunter,2009,2.2,8708,3939
+Hunter,2010,3.9,13886,3473
+Hunter,2011,1.9,5499,3043
+Hunter,2012,4,10553,2627
+Hunter,2013,1.7,4135,2484
+Hunter,2014,1.4,3376,2414
+Hunter,2015,3.1,7598,2379
+Hunter,2016,1.1,2678,2438
+Hunter,2017,1.4,3663,2496
+Hunter,2018,1.8,4651,2554
+Hunter,2019,1.9,4911,2622
+Hunter,2020,0.8,2157,2622
+Hunter,2021,1.5,4041,2622
+Hunter,2022,2.1,5570,2622
+Hunter,2023,1.7,4662,2622
+Langhorne Creek,2001,19.1,51308,2675
+Langhorne Creek,2002,11.2,44864,3967
+Langhorne Creek,2003,10.6,49269,4601
+Langhorne Creek,2004,11.3,54362,4784
+Langhorne Creek,2005,11.6,60860,5203
+Langhorne Creek,2006,11.9,68218,5705
+Langhorne Creek,2007,6.9,40393,5836
+Langhorne Creek,2008,10.1,59885,5952
+Langhorne Creek,2009,7.7,46554,6058
+Langhorne Creek,2010,7.7,46337,6000
+Langhorne Creek,2011,6.6,39547,5954
+Langhorne Creek,2012,8.1,48649,5951
+Langhorne Creek,2013,7.8,46932,5813
+Langhorne Creek,2014,8.3,48640,5790
+Langhorne Creek,2015,6.6,38921,5689
+Langhorne Creek,2016,10.7,60117,5691
+Langhorne Creek,2017,10,59144,5727
+Langhorne Creek,2018,7.2,44695,5878
+Langhorne Creek,2019,7.1,43137,5839
+Langhorne Creek,2020,4,24286,5799
+Langhorne Creek,2021,9.1,53521,5813
+Langhorne Creek,2022,2.7,15406,5864
+Langhorne Creek,2023,4.6,26653,5812
+Mount Benson,2001,9.8,10947,1116
+Mount Benson,2002,6.2,11716,1811
+Mount Benson,2003,6.6,15809,2368
+Mount Benson,2004,11.9,30185,2561
+Mount Benson,2005,8,22519,2802
+Mount Benson,2006,10.9,31424,2858
+Mount Benson,2007,4.8,14807,3059
+Mount Benson,2008,7.9,24910,3138
+Mount Benson,2009,7,23186,3274
+Mount Benson,2010,6.2,20158,3208
+Mount Benson,2011,4.2,13611,3310
+Mount Benson,2012,4.6,15681,3332
+Mount Benson,2013,5.6,18560,3271
+Mount Benson,2014,3.8,12728,3318
+Mount Benson,2015,4.2,14325,3323
+Mount Benson,2016,6.2,20668,3328
+Mount Benson,2017,6.7,22157,3312
+Mount Benson,2018,5,16480,3345
+Mount Benson,2019,6.5,21162,3287
+Mount Benson,2020,3.3,11394,3236
+Mount Benson,2021,7.6,25877,3253
+Mount Benson,2022,3.9,12336,3273
+Mount Benson,2023,3.6,11397,3101
+Macedon Ranges,2001,0,0,0
+Macedon Ranges,2002,0,0,0
+Macedon Ranges,2003,2.7,324,119
+Macedon Ranges,2004,4.6,768,164
+Macedon Ranges,2005,4.2,657,153
+Macedon Ranges,2006,3.1,529,170
+Macedon Ranges,2007,3,614,202
+Macedon Ranges,2008,4.6,700,149
+Macedon Ranges,2009,0,0,184
+Macedon Ranges,2010,2.2,513,224
+Macedon Ranges,2011,0,0,236
+Macedon Ranges,2012,2.3,585,248
+Macedon Ranges,2013,0,0,207
+Macedon Ranges,2014,1,104,172
+Macedon Ranges,2015,3.9,556,140
+Macedon Ranges,2016,0.8,99,140
+Macedon Ranges,2017,2.6,288,140
+Macedon Ranges,2018,1,140,140
+Macedon Ranges,2019,0.8,117,140
+Macedon Ranges,2020,0.3,44,140
+Macedon Ranges,2021,0.4,68,140
+Macedon Ranges,2022,1.4,197,140
+Macedon Ranges,2023,2.6,393,140
+Manjimup,2001,0,0,0
+Manjimup,2002,0,0,0
+Manjimup,2003,0,0,0
+Manjimup,2004,0,0,0
+Manjimup,2005,0,0,0
+Manjimup,2006,0,0,0
+Manjimup,2007,5.9,1066,178
+Manjimup,2008,6.1,1766,287
+Manjimup,2009,10.1,1787,229
+Manjimup,2010,4.5,799,179
+Manjimup,2011,6.6,576,130
+Manjimup,2012,7.4,634,85
+Manjimup,2013,0,0,73
+Manjimup,2014,0,0,64
+Manjimup,2015,4.6,237,54
+Manjimup,2016,4.9,399,81
+Manjimup,2017,2.4,102,108
+Manjimup,2018,1.5,204,134
+Manjimup,2019,1.7,257,161
+Manjimup,2020,0.3,15,161
+Manjimup,2021,1.2,83,161
+Manjimup,2022,0.8,114,161
+Manjimup,2023,0.5,42,161
+Margaret River,2001,7.1,24316,3400
+Margaret River,2002,6.9,25751,3728
+Margaret River,2003,6.3,26177,4094
+Margaret River,2004,8.2,35101,4254
+Margaret River,2005,7.7,37639,4825
+Margaret River,2006,5.8,28637,4908
+Margaret River,2007,6.3,33694,5338
+Margaret River,2008,6.8,36518,5356
+Margaret River,2009,2.5,12550,5116
+Margaret River,2010,6.4,31369,4893
+Margaret River,2011,3.2,15214,4900
+Margaret River,2012,7.2,35813,4931
+Margaret River,2013,2.5,11933,4880
+Margaret River,2014,4.5,21248,4842
+Margaret River,2015,5.4,26131,4816
+Margaret River,2016,3.6,18222,4997
+Margaret River,2017,3.9,20591,5178
+Margaret River,2018,3.8,20433,5359
+Margaret River,2019,3.6,20330,5591
+Margaret River,2020,3.8,21311,5591
+Margaret River,2021,4.4,24565,5591
+Margaret River,2022,4.7,26648,5591
+Margaret River,2023,5.2,29231,5591
+McLaren Vale,2001,13.9,55875,3986
+McLaren Vale,2002,10.5,49129,4635
+McLaren Vale,2003,7.6,43451,5654
+McLaren Vale,2004,11.8,71516,6022
+McLaren Vale,2005,10.2,65126,6334
+McLaren Vale,2006,9.7,63259,6570
+McLaren Vale,2007,5.1,35292,6869
+McLaren Vale,2008,7.6,54601,7167
+McLaren Vale,2009,4.7,33484,7102
+McLaren Vale,2010,5.9,42677,7101
+McLaren Vale,2011,6.4,45518,7083
+McLaren Vale,2012,4.3,31752,7322
+McLaren Vale,2013,4.8,35228,7273
+McLaren Vale,2014,4.6,33093,7199
+McLaren Vale,2015,3.9,28434,7199
+McLaren Vale,2016,5.7,40996,7088
+McLaren Vale,2017,6.2,44389,7054
+McLaren Vale,2018,4.9,35651,7155
+McLaren Vale,2019,4.5,33037,7139
+McLaren Vale,2020,4,28751,7105
+McLaren Vale,2021,5.1,36658,7185
+McLaren Vale,2022,4.9,34989,7160
+McLaren Vale,2023,3.6,26467,7189
+Mornington Peninsula,2001,6.6,2689,402
+Mornington Peninsula,2002,2.3,1000,432
+Mornington Peninsula,2003,3.4,1638,470
+Mornington Peninsula,2004,6.9,4916,710
+Mornington Peninsula,2005,5.5,3110,559
+Mornington Peninsula,2006,5.1,3400,659
+Mornington Peninsula,2007,4,2490,620
+Mornington Peninsula,2008,6.9,4599,658
+Mornington Peninsula,2009,3.2,2070,695
+Mornington Peninsula,2010,5,3801,751
+Mornington Peninsula,2011,3.4,2431,787
+Mornington Peninsula,2012,3.9,3278,824
+Mornington Peninsula,2013,2.6,1983,801
+Mornington Peninsula,2014,0.8,620,788
+Mornington Peninsula,2015,4.1,3257,777
+Mornington Peninsula,2016,4.5,3656,808
+Mornington Peninsula,2017,2.3,1992,839
+Mornington Peninsula,2018,4,3511,869
+Mornington Peninsula,2019,4.2,3819,901
+Mornington Peninsula,2020,1.9,1703,901
+Mornington Peninsula,2021,2.3,2115,901
+Mornington Peninsula,2022,1.2,1123,901
+Mornington Peninsula,2023,1.8,1665,901
+Mudgee,2001,7.3,15785,2151
+Mudgee,2002,6.8,18918,2754
+Mudgee,2003,7.1,19275,2709
+Mudgee,2004,7.5,22768,3022
+Mudgee,2005,8.1,26508,3250
+Mudgee,2006,7.9,26407,3335
+Mudgee,2007,5.2,16779,3231
+Mudgee,2008,7,23617,3330
+Mudgee,2009,10.6,34245,3370
+Mudgee,2010,2.7,9358,3414
+Mudgee,2011,1.3,3180,2745
+Mudgee,2012,3,6292,2082
+Mudgee,2013,5,4511,1726
+Mudgee,2014,0.2,125,1400
+Mudgee,2015,4.4,4771,1081
+Mudgee,2016,1.4,1763,1288
+Mudgee,2017,0.9,1318,1494
+Mudgee,2018,1.1,1909,1701
+Mudgee,2019,1,2045,1908
+Mudgee,2020,0.9,1750,1908
+Mudgee,2021,0.6,1283,1908
+Mudgee,2022,0.6,1344,1908
+Mudgee,2023,0.8,1622,1908
+Murray Darling,2001,12.5,76941,6119
+Murray Darling,2002,15.1,107429,7090
+Murray Darling,2003,12.8,91926,7163
+Murray Darling,2004,14.6,108799,7427
+Murray Darling,2005,18.3,135241,7376
+Murray Darling,2006,16.4,125043,7617
+Murray Darling,2007,14.3,113998,7969
+Murray Darling,2008,16.3,140498,8600
+Murray Darling,2009,23.8,171066,7716
+Murray Darling,2010,19.5,133482,6841
+Murray Darling,2011,22,151931,7028
+Murray Darling,2012,23.6,171556,7261
+Murray Darling,2013,30.2,220513,7185
+Murray Darling,2014,28.2,211277,7384
+Murray Darling,2015,21.9,171779,7859
+Murray Darling,2016,22,167144,7625
+Murray Darling,2017,23.2,169640,7391
+Murray Darling,2018,22.5,158735,7157
+Murray Darling,2019,24.9,172921,6991
+Murray Darling,2020,23,157009,6991
+Murray Darling,2021,26.2,178087,6991
+Murray Darling,2022,19.4,127356,6991
+Murray Darling,2023,14.2,96863,6991
+Swan Hill,2001,11.2,253940,22564
+Swan Hill,2002,11.9,282733,23616
+Swan Hill,2003,9.8,224322,22799
+Swan Hill,2004,12.8,289742,22611
+Swan Hill,2005,13.5,306755,22672
+Swan Hill,2006,11.6,275391,23706
+Swan Hill,2007,10.9,256539,23430
+Swan Hill,2008,12.7,286546,22512
+Swan Hill,2009,13.7,209081,17363
+Swan Hill,2010,16.3,202013,12329
+Swan Hill,2011,16.2,185694,11840
+Swan Hill,2012,18.2,211017,11535
+Swan Hill,2013,25.4,270338,10464
+Swan Hill,2014,25.9,259093,9877
+Swan Hill,2015,21.9,209952,9605
+Swan Hill,2016,21.7,202471,9371
+Swan Hill,2017,21.9,198835,9136
+Swan Hill,2018,22.1,196085,8902
+Swan Hill,2019,20.8,178179,8721
+Swan Hill,2020,22.5,193580,8721
+Swan Hill,2021,26,223653,8721
+Swan Hill,2022,23.9,199525,8721
+Swan Hill,2023,12.4,108197,8721
+King Valley,2001,10.2,12676,1253
+King Valley,2002,8.3,9160,1096
+King Valley,2003,6.8,9167,1340
+King Valley,2004,12.2,12980,1057
+King Valley,2005,12,11781,983
+King Valley,2006,8.7,8978,1024
+King Valley,2007,5.3,5507,1025
+King Valley,2008,11.9,11126,928
+King Valley,2009,10.1,10812,1135
+King Valley,2010,9.2,12808,1393
+King Valley,2011,2.9,3323,1467
+King Valley,2012,7.9,12408,1552
+King Valley,2013,3.9,5350,1413
+King Valley,2014,7.1,9571,1348
+King Valley,2015,10.3,15072,1420
+King Valley,2016,9,12492,1420
+King Valley,2017,11.5,16052,1420
+King Valley,2018,9.2,12924,1420
+King Valley,2019,11.2,15671,1420
+King Valley,2020,9,10852,1420
+King Valley,2021,14.5,20332,1420
+King Valley,2022,14.1,19228,1420
+King Valley,2023,11.2,15255,1420
+New England Australia,2001,2.9,35,12
+New England Australia,2002,0,0,0
+New England Australia,2003,3.1,59,19
+New England Australia,2004,4.9,139,28
+New England Australia,2005,4,121,29
+New England Australia,2006,3,84,27
+New England Australia,2007,3.1,85,27
+New England Australia,2008,3.7,87,24
+New England Australia,2009,0,0,31
+New England Australia,2010,1.2,49,40
+New England Australia,2011,0,0,34
+New England Australia,2012,1.7,39,29
+New England Australia,2013,0,0,7
+New England Australia,2014,0,0,5
+New England Australia,2015,2.4,17,7
+New England Australia,2016,0,0,7
+New England Australia,2017,0,0,7
+New England Australia,2018,0,10,7
+New England Australia,2019,2.2,9,7
+New England Australia,2020,0,7,7
+New England Australia,2021,0,0,7
+New England Australia,2022,0,0,7
+New England Australia,2023,0,0,7
+Southern Flinders Ranges,2001,6,1041,173
+Southern Flinders Ranges,2002,5.1,1385,268
+Southern Flinders Ranges,2003,3.7,984,267
+Southern Flinders Ranges,2004,5.2,1564,303
+Southern Flinders Ranges,2005,6,1804,299
+Southern Flinders Ranges,2006,4.6,1187,261
+Southern Flinders Ranges,2007,3.6,1082,313
+Southern Flinders Ranges,2008,10.1,1398,132
+Southern Flinders Ranges,2009,8.5,449,128
+Southern Flinders Ranges,2010,7.5,1129,145
+Southern Flinders Ranges,2011,0,0,87
+Southern Flinders Ranges,2012,3.6,286,45
+Southern Flinders Ranges,2013,0,0,76
+Southern Flinders Ranges,2014,0,0,106
+Southern Flinders Ranges,2015,1.2,221,183
+Southern Flinders Ranges,2016,0.6,121,178
+Southern Flinders Ranges,2017,0.5,31,172
+Southern Flinders Ranges,2018,0.5,10,167
+Southern Flinders Ranges,2019,0.2,32,162
+Southern Flinders Ranges,2020,0.3,17,162
+Southern Flinders Ranges,2021,0,0,162
+Southern Flinders Ranges,2022,0,0,162
+Southern Flinders Ranges,2023,0.3,49,162
+Orange,2001,8.9,8921,994
+Orange,2002,6.4,9995,1545
+Orange,2003,7.3,11786,1613
+Orange,2004,8,14025,1738
+Orange,2005,7.1,5448,762
+Orange,2006,7,9960,1417
+Orange,2007,4.3,6269,1455
+Orange,2008,9.4,14061,1494
+Orange,2009,5.1,7451,1512
+Orange,2010,3.6,5563,1545
+Orange,2011,3.3,5040,1614
+Orange,2012,5.4,9175,1693
+Orange,2013,2.1,3074,1475
+Orange,2014,1.3,1609,1284
+Orange,2015,6.6,7389,1101
+Orange,2016,5.1,5586,1086
+Orange,2017,5.6,6055,1071
+Orange,2018,3.2,3436,1056
+Orange,2019,4.3,4566,1061
+Orange,2020,1.3,1456,1061
+Orange,2021,2.8,3093,1061
+Orange,2022,3.6,3942,1061
+Orange,2023,3.6,3916,1061
+Padthaway,2001,12.7,36118,2808
+Padthaway,2002,7.1,21002,2955
+Padthaway,2003,8.7,27582,3145
+Padthaway,2004,15.8,51130,3218
+Padthaway,2005,10,33660,3361
+Padthaway,2006,12.7,45189,3507
+Padthaway,2007,6.2,23787,3802
+Padthaway,2008,11.7,47089,4006
+Padthaway,2009,10.1,40554,4000
+Padthaway,2010,9.3,37257,3999
+Padthaway,2011,6.7,26586,3961
+Padthaway,2012,7.6,30411,4007
+Padthaway,2013,7.6,30242,3943
+Padthaway,2014,7,27655,3940
+Padthaway,2015,6.4,25352,3928
+Padthaway,2016,11.6,44921,3882
+Padthaway,2017,10.9,41142,3780
+Padthaway,2018,5.4,21278,3825
+Padthaway,2019,9.7,37215,3749
+Padthaway,2020,4.4,16429,3691
+Padthaway,2021,11.5,43802,3730
+Padthaway,2022,7.9,28805,3608
+Padthaway,2023,7,26706,3742
+Peel,2001,0,0,0
+Peel,2002,0,0,0
+Peel,2003,3.6,78,28
+Peel,2004,6.2,274,43
+Peel,2005,1.9,63,33
+Peel,2006,2,67,33
+Peel,2007,1.8,53,34
+Peel,2008,2.5,73,34
+Peel,2009,0,0,59
+Peel,2010,3.2,316,96
+Peel,2011,0,0,97
+Peel,2012,2.6,256,101
+Peel,2013,0,0,72
+Peel,2014,0,0,53
+Peel,2015,1,33,35
+Peel,2016,0,0,41
+Peel,2017,0.4,18,46
+Peel,2018,0,0,52
+Peel,2019,0.2,13,63
+Peel,2020,0.2,11,63
+Peel,2021,0.3,17,63
+Peel,2022,0,0,63
+Peel,2023,0,0,63
+Pemberton,2001,0,0,0
+Pemberton,2002,0,0,0
+Pemberton,2003,0,0,0
+Pemberton,2004,0,0,0
+Pemberton,2005,0,0,0
+Pemberton,2006,0,0,0
+Pemberton,2007,5.8,4460,765
+Pemberton,2008,6.3,4623,726
+Pemberton,2009,4.3,2669,671
+Pemberton,2010,6.3,3942,622
+Pemberton,2011,3.7,1230,505
+Pemberton,2012,5.9,2329,389
+Pemberton,2013,8.2,2023,368
+Pemberton,2014,14.7,4207,348
+Pemberton,2015,5.9,1970,333
+Pemberton,2016,6.7,2476,367
+Pemberton,2017,2.7,1045,401
+Pemberton,2018,4.9,2011,435
+Pemberton,2019,3.7,1699,469
+Pemberton,2020,2.7,1285,469
+Pemberton,2021,3.4,1657,469
+Pemberton,2022,3.4,1630,469
+Pemberton,2023,3.4,1633,469
+Perricoota,2001,13.5,2074,153
+Perricoota,2002,7,1013,144
+Perricoota,2003,9.4,1958,207
+Perricoota,2004,10.4,1923,184
+Perricoota,2005,13.3,2189,164
+Perricoota,2006,10.4,1611,154
+Perricoota,2007,5.4,880,163
+Perricoota,2008,12.5,5492,436
+Perricoota,2009,2.4,1226,542
+Perricoota,2010,9.3,6213,670
+Perricoota,2011,3.1,1624,574
+Perricoota,2012,9.5,4648,493
+Perricoota,2013,3.1,1303,444
+Perricoota,2014,1.6,609,405
+Perricoota,2015,15.8,5822,366
+Perricoota,2016,1.1,247,389
+Perricoota,2017,1,333,412
+Perricoota,2018,1.2,317,436
+Perricoota,2019,0.3,161,459
+Perricoota,2020,0.5,222,459
+Perricoota,2021,0.8,343,459
+Perricoota,2022,8.2,3719,459
+Perricoota,2023,3.4,1350,459
+Perth Hills,2001,7.8,2467,315
+Perth Hills,2002,4.2,1193,281
+Perth Hills,2003,4.3,964,238
+Perth Hills,2004,5.9,1719,291
+Perth Hills,2005,6,1934,317
+Perth Hills,2006,5.3,1773,329
+Perth Hills,2007,4.9,1469,297
+Perth Hills,2008,5.9,2010,340
+Perth Hills,2009,0,0,313
+Perth Hills,2010,4.5,1333,294
+Perth Hills,2011,0,0,265
+Perth Hills,2012,5.9,1383,243
+Perth Hills,2013,0,0,198
+Perth Hills,2014,3.3,105,154
+Perth Hills,2015,2.6,306,115
+Perth Hills,2016,0.6,48,124
+Perth Hills,2017,0.4,32,134
+Perth Hills,2018,0.4,38,144
+Perth Hills,2019,0.3,31,156
+Perth Hills,2020,1.2,148,156
+Perth Hills,2021,0.4,40,156
+Perth Hills,2022,1.4,223,156
+Perth Hills,2023,0.6,94,156
+Port Phillip - other,2001,5.2,676,129
+Port Phillip - other,2002,5.5,1412,256
+Port Phillip - other,2003,5.3,676,125
+Port Phillip - other,2004,5.2,216,41
+Port Phillip - other,2005,4.7,209,44
+Port Phillip - other,2006,4,150,37
+Port Phillip - other,2007,2.3,89,38
+Port Phillip - other,2008,5.9,228,38
+Port Phillip - other,2009,1.8,36,50
+Port Phillip - other,2010,3.2,214,67
+Port Phillip - other,2011,0,0,93
+Port Phillip - other,2012,3.3,407,123
+Port Phillip - other,2013,0,0,250
+Port Phillip - other,2014,0,0,379
+Port Phillip - other,2015,6.5,3397,520
+Port Phillip - other,2016,0.1,5,520
+Port Phillip - other,2017,0.1,7,520
+Port Phillip - other,2018,0.1,8,520
+Port Phillip - other,2019,0.7,56,520
+Port Phillip - other,2020,0,24,520
+Port Phillip - other,2021,0,0,520
+Port Phillip - other,2022,0.1,36,520
+Port Phillip - other,2023,0,0,520
+Pyrenees,2001,6,2580,428
+Pyrenees,2002,3.2,1574,490
+Pyrenees,2003,1.7,1228,700
+Pyrenees,2004,3.9,2726,692
+Pyrenees,2005,4.7,3300,702
+Pyrenees,2006,2.9,2221,759
+Pyrenees,2007,1.3,953,694
+Pyrenees,2008,3.1,2375,754
+Pyrenees,2009,0.3,109,811
+Pyrenees,2010,5,4423,873
+Pyrenees,2011,0.9,588,806
+Pyrenees,2012,3,2274,743
+Pyrenees,2013,0.5,226,647
+Pyrenees,2014,0.3,123,559
+Pyrenees,2015,4.5,2267,493
+Pyrenees,2016,2.4,1401,586
+Pyrenees,2017,2.4,1673,680
+Pyrenees,2018,1,825,774
+Pyrenees,2019,1.4,1272,877
+Pyrenees,2020,1.1,969,877
+Pyrenees,2021,2.4,2059,877
+Pyrenees,2022,1.2,1112,877
+Pyrenees,2023,0.7,622,877
+Qld - other,2001,1.7,695,394
+Qld - other,2002,2.7,1055,406
+Qld - other,2003,1.7,654,377
+Qld - other,2004,3.1,1219,386
+Qld - other,2005,4.2,2058,480
+Qld - other,2006,1.4,770,521
+Qld - other,2007,0.6,413,668
+Qld - other,2008,0.7,464,666
+Qld - other,2009,0.9,328,363
+Qld - other,2010,1.1,204,187
+Qld - other,2011,1.1,176,159
+Qld - other,2012,1.2,168,138
+Qld - other,2013,1.4,141,104
+Qld - other,2014,1.4,128,91
+Qld - other,2015,1.4,118,82
+Qld - other,2016,0.8,65,82
+Qld - other,2017,1,76,82
+Qld - other,2018,0.5,36,82
+Qld - other,2019,2,148,82
+Qld - other,2020,1,66,82
+Qld - other,2021,1.1,85,82
+Qld - other,2022,1,80,82
+Qld - other,2023,0.2,13,82
+Riverina,2001,12.3,153260,12397
+Riverina,2002,15.8,203479,12869
+Riverina,2003,13.7,178055,13003
+Riverina,2004,16.4,225806,13717
+Riverina,2005,16.1,219517,13627
+Riverina,2006,16.4,243029,14785
+Riverina,2007,11.8,207355,17557
+Riverina,2008,14.9,272070,18162
+Riverina,2009,14,264890,19105
+Riverina,2010,12.1,245746,20154
+Riverina,2011,13.2,263362,20123
+Riverina,2012,11.8,239973,20196
+Riverina,2013,13.7,267442,19358
+Riverina,2014,12.8,245061,18812
+Riverina,2015,15.4,293629,18610
+Riverina,2016,15,275131,18140
+Riverina,2017,17.5,311270,17670
+Riverina,2018,16.4,283700,17200
+Riverina,2019,17,290581,17108
+Riverina,2020,15.5,268546,17108
+Riverina,2021,18.1,315751,17108
+Riverina,2022,16.9,292643,17108
+Riverina,2023,11.2,200117,17108
+Riverland,2001,22.9,327102,14116
+Riverland,2002,26.9,433892,16102
+Riverland,2003,21.2,369173,17110
+Riverland,2004,24.2,440123,18065
+Riverland,2005,25.4,482216,18888
+Riverland,2006,23.6,464367,19827
+Riverland,2007,16,323171,20360
+Riverland,2008,19,401301,21273
+Riverland,2009,18.8,397853,21174
+Riverland,2010,16.3,333602,20459
+Riverland,2011,18.8,382225,20377
+Riverland,2012,20.3,411531,20353
+Riverland,2013,19.4,396199,20426
+Riverland,2014,21.7,436374,20203
+Riverland,2015,22.6,454205,20170
+Riverland,2016,22.7,456989,20217
+Riverland,2017,23.6,470125,19963
+Riverland,2018,22.3,447410,19966
+Riverland,2019,24.1,474089,19591
+Riverland,2020,23.5,461385,19722
+Riverland,2021,28.4,558252,19815
+Riverland,2022,26.3,506768,19850
+Riverland,2023,21,410888,20054
+Rutherglen,2001,6.1,4910,793
+Rutherglen,2002,6.4,6381,993
+Rutherglen,2003,5.3,4903,919
+Rutherglen,2004,7.4,6641,897
+Rutherglen,2005,8,7493,928
+Rutherglen,2006,7.4,7419,998
+Rutherglen,2007,4.6,4556,983
+Rutherglen,2008,6.3,6539,1024
+Rutherglen,2009,11.2,7243,933
+Rutherglen,2010,6.3,5411,853
+Rutherglen,2011,1,561,832
+Rutherglen,2012,3.2,2645,827
+Rutherglen,2013,3.1,1492,643
+Rutherglen,2014,1.1,385,504
+Rutherglen,2015,5.4,2341,399
+Rutherglen,2016,4.1,1683,491
+Rutherglen,2017,3.5,2068,582
+Rutherglen,2018,2.4,1690,674
+Rutherglen,2019,1.9,1478,790
+Rutherglen,2020,2.9,2238,790
+Rutherglen,2021,3.8,2996,790
+Rutherglen,2022,5.3,3861,790
+Rutherglen,2023,3.4,2645,790
+Kangaroo Island,2001,1.9,9039,4658
+Kangaroo Island,2002,8.2,4778,567
+Kangaroo Island,2003,0,0,0
+Kangaroo Island,2004,0,0,0
+Kangaroo Island,2005,0,0,0
+Kangaroo Island,2006,0,0,0
+Kangaroo Island,2007,0,0,0
+Kangaroo Island,2008,4.1,3951,1020
+Kangaroo Island,2009,3.2,3129,999
+Kangaroo Island,2010,4.6,4165,974
+Kangaroo Island,2011,5.1,4688,1010
+Kangaroo Island,2012,4.2,4408,1005
+Kangaroo Island,2013,3.3,2943,1020
+Kangaroo Island,2014,3,3204,1016
+Kangaroo Island,2015,3.8,4027,1002
+Kangaroo Island,2016,4.8,4709,994
+Kangaroo Island,2017,6.6,6975,990
+Kangaroo Island,2018,6.6,7668,997
+Kangaroo Island,2019,10.4,10814,991
+Kangaroo Island,2020,6.4,5414,986
+Kangaroo Island,2021,6.4,6128,954
+Kangaroo Island,2022,2.4,1949,956
+Kangaroo Island,2023,6.7,5380,942
+South Burnett,2001,6.1,674,112
+South Burnett,2002,14.1,1206,103
+South Burnett,2003,12.4,1586,133
+South Burnett,2004,10.7,1435,134
+South Burnett,2005,23.3,2032,88
+South Burnett,2006,18.6,1642,88
+South Burnett,2007,3.5,318,91
+South Burnett,2008,5,699,147
+South Burnett,2009,5.3,572,112
+South Burnett,2010,1.8,446,239
+South Burnett,2011,1.4,336,226
+South Burnett,2012,1,226,216
+South Burnett,2013,1.2,254,209
+South Burnett,2014,1.3,284,204
+South Burnett,2015,1.5,346,215
+South Burnett,2016,0.3,69,220
+South Burnett,2017,0,9,226
+South Burnett,2018,0.7,172,231
+South Burnett,2019,0.4,106,236
+South Burnett,2020,0.1,39,236
+South Burnett,2021,0.1,44,236
+South Burnett,2022,0,8,236
+South Burnett,2023,0.1,38,236
+Shoalhaven Coast,2001,3.4,387,111
+Shoalhaven Coast,2002,4.2,319,74
+Shoalhaven Coast,2003,4.5,341,75
+Shoalhaven Coast,2004,4.6,391,87
+Shoalhaven Coast,2005,4.9,330,66
+Shoalhaven Coast,2006,3.3,192,58
+Shoalhaven Coast,2007,4.1,287,70
+Shoalhaven Coast,2008,3.9,225,57
+Shoalhaven Coast,2009,0,0,89
+Shoalhaven Coast,2010,2.8,426,152
+Shoalhaven Coast,2011,0,0,154
+Shoalhaven Coast,2012,4.5,769,175
+Shoalhaven Coast,2013,0,0,129
+Shoalhaven Coast,2014,0,0,106
+Shoalhaven Coast,2015,2.7,302,104
+Shoalhaven Coast,2016,0.2,12,104
+Shoalhaven Coast,2017,0,0,104
+Shoalhaven Coast,2018,0.7,54,104
+Shoalhaven Coast,2019,0.1,10,104
+Shoalhaven Coast,2020,0.1,5,104
+Shoalhaven Coast,2021,0.1,10,104
+Shoalhaven Coast,2022,0,4,104
+Shoalhaven Coast,2023,0.2,12,104
+Southern Highlands,2001,0,0,0
+Southern Highlands,2002,2.9,132,45
+Southern Highlands,2003,2.3,221,95
+Southern Highlands,2004,2.6,311,117
+Southern Highlands,2005,3.5,562,158
+Southern Highlands,2006,2.9,520,176
+Southern Highlands,2007,4.7,819,172
+Southern Highlands,2008,7.2,1242,171
+Southern Highlands,2009,235.7,6659,183
+Southern Highlands,2010,4.5,916,202
+Southern Highlands,2011,0,0,193
+Southern Highlands,2012,5.1,967,188
+Southern Highlands,2013,0,0,161
+Southern Highlands,2014,0,0,140
+Southern Highlands,2015,3.3,415,124
+Southern Highlands,2016,0.5,73,155
+Southern Highlands,2017,0.3,43,185
+Southern Highlands,2018,0,0,216
+Southern Highlands,2019,0,4,247
+Southern Highlands,2020,0,0,247
+Southern Highlands,2021,0,0,247
+Southern Highlands,2022,0,1,247
+Southern Highlands,2023,0.1,37,247
+Southern New South Wales - other,2001,5.9,5471,914
+Southern New South Wales - other,2002,10.7,8292,780
+Southern New South Wales - other,2003,6.3,1738,287
+Southern New South Wales - other,2004,9.8,3581,361
+Southern New South Wales - other,2005,8.5,2538,295
+Southern New South Wales - other,2006,6.8,401,59
+Southern New South Wales - other,2007,2.5,171,70
+Southern New South Wales - other,2008,3.6,418,123
+Southern New South Wales - other,2009,0,0,113
+Southern New South Wales - other,2010,9.4,1123,119
+Southern New South Wales - other,2011,0,0,70
+Southern New South Wales - other,2012,0.7,15,23
+Southern New South Wales - other,2013,0,0,28
+Southern New South Wales - other,2014,0,0,35
+Southern New South Wales - other,2015,5.1,238,46
+Southern New South Wales - other,2016,1,3,46
+Southern New South Wales - other,2017,23.6,371,46
+Southern New South Wales - other,2018,9.3,124,46
+Southern New South Wales - other,2019,0,0,46
+Southern New South Wales - other,2020,0,0,46
+Southern New South Wales - other,2021,0.2,5,46
+Southern New South Wales - other,2022,0.3,1,46
+Southern New South Wales - other,2023,0.7,3,46
+Strathbogie Ranges,2001,0,0,0
+Strathbogie Ranges,2002,7.1,2113,295
+Strathbogie Ranges,2003,5.3,2471,465
+Strathbogie Ranges,2004,9,4699,520
+Strathbogie Ranges,2005,6.3,3150,496
+Strathbogie Ranges,2006,6.2,3240,520
+Strathbogie Ranges,2007,5.1,2922,570
+Strathbogie Ranges,2008,9.7,5166,531
+Strathbogie Ranges,2009,7.6,1187,444
+Strathbogie Ranges,2010,5.9,2214,369
+Strathbogie Ranges,2011,16.5,4377,382
+Strathbogie Ranges,2012,4,1618,408
+Strathbogie Ranges,2013,3.1,461,471
+Strathbogie Ranges,2014,8.2,2870,536
+Strathbogie Ranges,2015,6.1,3900,626
+Strathbogie Ranges,2016,3.2,1862,604
+Strathbogie Ranges,2017,4.4,2447,581
+Strathbogie Ranges,2018,3.5,1895,558
+Strathbogie Ranges,2019,3.4,1773,536
+Strathbogie Ranges,2020,2.5,1305,536
+Strathbogie Ranges,2021,5.2,2677,536
+Strathbogie Ranges,2022,3.4,1794,536
+Strathbogie Ranges,2023,2.5,1313,536
+Sunbury,2001,4.4,343,78
+Sunbury,2002,6.2,943,152
+Sunbury,2003,2.7,484,174
+Sunbury,2004,4.3,522,120
+Sunbury,2005,3.9,606,151
+Sunbury,2006,3.6,612,166
+Sunbury,2007,2.1,401,187
+Sunbury,2008,5.4,1191,219
+Sunbury,2009,1.8,261,173
+Sunbury,2010,2.8,361,129
+Sunbury,2011,1.6,112,132
+Sunbury,2012,2.7,379,137
+Sunbury,2013,0,0,109
+Sunbury,2014,0,0,87
+Sunbury,2015,3.5,239,66
+Sunbury,2016,2.1,169,83
+Sunbury,2017,0.1,13,100
+Sunbury,2018,0.1,15,117
+Sunbury,2019,1.3,137,133
+Sunbury,2020,0.4,46,133
+Sunbury,2021,0.3,38,133
+Sunbury,2022,0.9,96,133
+Sunbury,2023,0.1,16,133
+Swan District,2001,6.1,4965,812
+Swan District,2002,5.4,4134,801
+Swan District,2003,4.7,3919,831
+Swan District,2004,7.4,8839,1189
+Swan District,2005,7,9130,1300
+Swan District,2006,6.6,7116,1105
+Swan District,2007,5.1,5528,1074
+Swan District,2008,5.6,6324,1112
+Swan District,2009,17,11482,945
+Swan District,2010,6.2,4880,783
+Swan District,2011,4.6,2175,726
+Swan District,2012,6.7,4543,676
+Swan District,2013,9.6,4198,676
+Swan District,2014,6.9,3293,688
+Swan District,2015,9.9,7176,722
+Swan District,2016,4.2,3039,763
+Swan District,2017,3.2,2525,805
+Swan District,2018,3.4,2753,846
+Swan District,2019,3.5,3008,893
+Swan District,2020,2.8,2527,893
+Swan District,2021,2.6,2415,893
+Swan District,2022,2.4,2151,893
+Swan District,2023,2.4,2258,893
+Tasmania,2001,7.3,4973,679
+Tasmania,2002,3.4,3146,909
+Tasmania,2003,6.5,6390,977
+Tasmania,2004,7.4,7861,1048
+Tasmania,2005,6.2,6136,981
+Tasmania,2006,5.5,5570,998
+Tasmania,2007,4.2,5058,1196
+Tasmania,2008,8.7,10749,1223
+Tasmania,2009,5.1,5943,1227
+Tasmania,2010,5.9,7388,1251
+Tasmania,2011,6,7944,1389
+Tasmania,2012,4.3,5379,1228
+Tasmania,2013,8.4,11533,1453
+Tasmania,2014,4,5780,1513
+Tasmania,2015,5.6,8346,1456
+Tasmania,2016,5.7,9018,1596
+Tasmania,2017,5.6,9767,1782
+Tasmania,2018,6.9,12549,1842
+Tasmania,2019,6.2,11876,1931
+Tasmania,2020,4.6,9165,1996
+Tasmania,2021,5.3,10800,2069
+Tasmania,2022,5.4,10962,2069
+Tasmania,2023,5.2,10688,2069
+Tumbarumba,2001,8.1,2275,278
+Tumbarumba,2002,9.6,2498,260
+Tumbarumba,2003,7.2,1961,270
+Tumbarumba,2004,10.2,2890,282
+Tumbarumba,2005,5.3,1450,269
+Tumbarumba,2006,8.8,2347,265
+Tumbarumba,2007,4.4,1121,251
+Tumbarumba,2008,13,2306,177
+Tumbarumba,2009,5.7,1208,209
+Tumbarumba,2010,8.5,2167,254
+Tumbarumba,2011,3.4,676,245
+Tumbarumba,2012,4.8,1182,242
+Tumbarumba,2013,4.1,904,225
+Tumbarumba,2014,3.3,714,214
+Tumbarumba,2015,7.5,1571,210
+Tumbarumba,2016,6.3,1220,212
+Tumbarumba,2017,5.9,1200,214
+Tumbarumba,2018,3.6,753,216
+Tumbarumba,2019,2.2,470,219
+Tumbarumba,2020,0,0,219
+Tumbarumba,2021,1.8,322,219
+Tumbarumba,2022,1.4,279,219
+Tumbarumba,2023,1.7,405,219
+Upper Goulburn,2001,0,0,0
+Upper Goulburn,2002,0,0,0
+Upper Goulburn,2003,0,0,0
+Upper Goulburn,2004,9.7,2156,222
+Upper Goulburn,2005,8.1,2454,300
+Upper Goulburn,2006,7.8,1386,177
+Upper Goulburn,2007,2.4,426,175
+Upper Goulburn,2008,9.4,2030,214
+Upper Goulburn,2009,2.1,67,228
+Upper Goulburn,2010,4.1,1013,245
+Upper Goulburn,2011,3.5,631,250
+Upper Goulburn,2012,3.9,1015,262
+Upper Goulburn,2013,1.3,135,292
+Upper Goulburn,2014,2.8,522,324
+Upper Goulburn,2015,7.4,2877,389
+Upper Goulburn,2016,0.8,264,382
+Upper Goulburn,2017,1.6,431,375
+Upper Goulburn,2018,1.8,615,369
+Upper Goulburn,2019,4.2,1112,367
+Upper Goulburn,2020,1,356,367
+Upper Goulburn,2021,2.9,858,367
+Upper Goulburn,2022,2.4,851,367
+Upper Goulburn,2023,2,668,367
+WA - other,2001,7.4,7140,975
+WA - other,2002,6.1,6162,1004
+WA - other,2003,5.2,5045,982
+WA - other,2004,7.4,6841,915
+WA - other,2005,5.1,4958,954
+WA - other,2006,3.6,3470,955
+WA - other,2007,2.3,603,254
+WA - other,2008,3.9,1340,340
+WA - other,2009,0,0,262
+WA - other,2010,5.9,1170,205
+WA - other,2011,0,0,134
+WA - other,2012,5.6,411,74
+WA - other,2013,0,0,71
+WA - other,2014,0,0,71
+WA - other,2015,4.2,337,81
+WA - other,2016,3.7,87,81
+WA - other,2017,0,1,81
+WA - other,2018,6.7,80,81
+WA - other,2019,0,0,81
+WA - other,2020,0.1,1,81
+WA - other,2021,1.5,3,81
+WA - other,2022,0,0,81
+WA - other,2023,0.1,4,81
+Western Plains,2001,5.7,1205,328
+Western Plains,2002,11.6,3483,430
+Western Plains,2003,5.7,1694,407
+Western Plains,2004,11.8,5070,436
+Western Plains,2005,12.1,5533,479
+Western Plains,2006,10.6,1489,154
+Western Plains,2007,8.8,1657,313
+Western Plains,2008,10.9,3425,312
+Western Plains,2009,97.2,20311,271
+Western Plains,2010,6.5,1471,235
+Western Plains,2011,0,0,140
+Western Plains,2012,1,52,57
+Western Plains,2013,0,0,91
+Western Plains,2014,0,0,137
+Western Plains,2015,5.4,1258,236
+Western Plains,2016,0,0,236
+Western Plains,2017,0,0,236
+Western Plains,2018,0,0,236
+Western Plains,2019,0,0,236
+Western Plains,2020,0,0,236
+Western Plains,2021,0,0,236
+Western Plains,2022,0,0,236
+Western Plains,2023,0,0,236
+Western Victoria - other,2001,4.3,434,109
+Western Victoria - other,2002,3,170,56
+Western Victoria - other,2003,6.2,534,85
+Western Victoria - other,2004,6.8,804,121
+Western Victoria - other,2005,3,202,69
+Western Victoria - other,2006,9.1,2008,219
+Western Victoria - other,2007,4.5,948,208
+Western Victoria - other,2008,3.4,323,93
+Western Victoria - other,2009,0.7,40,82
+Western Victoria - other,2010,3.1,231,72
+Western Victoria - other,2011,1.4,54,68
+Western Victoria - other,2012,3.5,246,71
+Western Victoria - other,2013,1.1,34,68
+Western Victoria - other,2014,0.5,13,64
+Western Victoria - other,2015,2.7,169,61
+Western Victoria - other,2016,1.1,41,61
+Western Victoria - other,2017,1.8,91,61
+Western Victoria - other,2018,2.2,51,61
+Western Victoria - other,2019,1.5,75,61
+Western Victoria - other,2020,0.7,38,61
+Western Victoria - other,2021,3,152,61
+Western Victoria - other,2022,4.5,361,61
+Western Victoria - other,2023,1.5,78,61
+Wrattonbully,2001,18.2,16172,883
+Wrattonbully,2002,6,8685,1439
+Wrattonbully,2003,8.8,13333,1498
+Wrattonbully,2004,17.5,28450,1620
+Wrattonbully,2005,7.6,16780,2188
+Wrattonbully,2006,9.4,22379,2372
+Wrattonbully,2007,3.9,10096,2474
+Wrattonbully,2008,9.4,23345,2452
+Wrattonbully,2009,8.6,21757,2524
+Wrattonbully,2010,8.8,23292,2631
+Wrattonbully,2011,5.3,14104,2627
+Wrattonbully,2012,7.2,19054,2643
+Wrattonbully,2013,7.1,19206,2671
+Wrattonbully,2014,6.7,17848,2662
+Wrattonbully,2015,6.2,16557,2657
+Wrattonbully,2016,8.9,23606,2650
+Wrattonbully,2017,10.4,27373,2646
+Wrattonbully,2018,4.9,13160,2649
+Wrattonbully,2019,9.2,24574,2650
+Wrattonbully,2020,4.8,12371,2588
+Wrattonbully,2021,12.6,32738,2585
+Wrattonbully,2022,8,21210,2617
+Wrattonbully,2023,0,13251,2696
+Yarra Valley,2001,7.5,15389,2038
+Yarra Valley,2002,3.6,8003,2208
+Yarra Valley,2003,5.1,12057,2323
+Yarra Valley,2004,7.5,19338,2570
+Yarra Valley,2005,6.4,15401,2376
+Yarra Valley,2006,6.3,15163,2406
+Yarra Valley,2007,4.1,10284,2498
+Yarra Valley,2008,8.1,20962,2586
+Yarra Valley,2009,3.2,8073,2499
+Yarra Valley,2010,6.4,15711,2440
+Yarra Valley,2011,3.6,8471,2392
+Yarra Valley,2012,5.1,12018,2352
+Yarra Valley,2013,2.7,6120,2247
+Yarra Valley,2014,3.7,8169,2173
+Yarra Valley,2015,6.3,13565,2118
+Yarra Valley,2016,3.7,8280,2203
+Yarra Valley,2017,3.6,8391,2288
+Yarra Valley,2018,4.2,10298,2374
+Yarra Valley,2019,4.9,12347,2477
+Yarra Valley,2020,2.5,6206,2477
+Yarra Valley,2021,4.1,10246,2477
+Yarra Valley,2022,2.4,6132,2477
+Yarra Valley,2023,2.8,7237,2477

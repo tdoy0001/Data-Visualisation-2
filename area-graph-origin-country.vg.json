@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":"Winegrape production by origin country",
+    "height":260,
+    "width":350,
+    "data": {"url": "data/Origin-Country.csv"},
+    "transform": [{
+        "calculate": "if(datum.Country === 'France', 0, if(datum.Country === 'Spain', 1, if(datum.Country === 'Greece', 2, if(datum.Country === 'Turkey', 3, 4))))",
+        "as": "countryOrder"
+    }],
+    "mark": "area",
+    "encoding": {
+        "x": {
+        "timeUnit": "yearmonth",
+        "field": "Year",
+        "title": "Year",
+        "axis": {"format": "%Y"}
+        },
+        "y": {
+            "aggregate": "sum", 
+            "field": "Share",
+            "title": "Share of production"
+        },
+        "color": {
+            "field": "Country",
+            "type": "nominal",
+            "title": "Country",
+            "scale": {
+                "scheme": "viridis",
+                "domain": ["France", "Spain", "Greece", "Turkey", "Germany", "Italy", "Others"]
+            }
+        },
+        "order": {"field": "countryOrder"},
+        "tooltip":[
+            {"field": "Country", "type": "nominal"},
+            {"field": "Share", "type": "quantitative", "format": ".0%"},
+            {"field": "Year", "type": "temporal", "format": "%Y" }
+        ]
+    }
+}

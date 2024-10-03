@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Data Visualisation 2</title>
+
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.5.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- Title -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>Australian Wine</h1>
+        <br>
+      </div>
+    </div>
+
+    <!-- Group 1 -->
+    <div class="pure-g">
+
+      <div class="pure-u-1-3">
+        <h3>Overview</h3>
+        <p>
+          Australia is one of the leading wine-producing countries in the world, known for its high-quality wines and
+          diverse wine regions. Its wine industry is a significant part of the country's agricultural and export
+          sectors, with wines being sold domestically and internationally.
+        </p>
+        <h3>Wine Regions</h3>
+        <p>Australia boasts over 60 designated wine regions, each with its unique climate and soil, contributing to the
+          diversity of wines produced.
+          <br><br>
+          South Australia and New South Wales are known for their warmer climate varieties such as Shiraz and Cabernet
+          Sauvignon, whereas Victoria is known for cool climate-loving Pinot Noir.
+          <br><br>
+          Major wine regions include Barossa Valley in South Australia, Hunter Valley in New
+          South Wales, and Margaret River in Western Australia.
+          <br><br>
+          <span class="source-text">Source: <a href="https://winefolly.com/deep-dive/australia-wine-regions-map/"
+              target="_blank">https://winefolly.com/deep-dive/australia-wine-regions-map/</a></span>
+        </p>
+      </div>
+
+      <div class="pure-u-1-3">
+        <!-- <h3>Yields by State</h3> -->
+        <div id="map-state" class="vis-container"></div>
+      </div>
+
+      <div class="pure-u-1-3">
+        <!-- <h3>Yields by Region</h3> -->
+        <div id="map-region" class="vis-container"></div>
+      </div>
+
+    </div>
+
+    <!-- Group 2 -->
+    <div class="pure-g">
+
+      <div class="pure-u-8-24">
+        <h3>Wine Varieties</h3>
+        <div id="country" class="vis-container"></div>
+      </div>
+
+      <div class="pure-u-4-24">
+        <p>
+
+          In Australia, the move toward French wine varieties has been dramatic. This is because varieties known for
+          producing premium still and sparkling wines are now preferred over those traditionally used for fortified
+          wines.
+          <br><br>
+          Producers are well aware of the impact climate changes are having on the quality their winegrapes and on
+          vineyard yields and production costs.
+          <br><br>
+          Adaptation strategies include switching to warmer-climate or more-resilient grape varieties, and re-locating
+          to a region at a higher latitude or elevation to retain the current mix of grape varieties in their portfolio.
+          <br><br>
+          <span class="source-text">Source: <a
+              href="https://economics.adelaide.edu.au/wine-economics/databases#australian-winegrape-vine-area-production-and-price-database-by-region-and-variety-1956-to-2023"
+              target="_blank">University of Adelaide</a></span>
+        </p>
+      </div>
+
+      <div class="pure-u-8-24">
+        <div id="scatter" class="vis-container"></div>
+
+      </div>
+
+      <div class="pure-u-4-24">
+        <p>
+          Major grape varieties are Shiraz, Pinot noir, Cabernet Sauvignon, Merlot, Chardonnay, Sauvignon blanc,
+          Sémillon, and Riesling.
+          <br><br>
+          The most widely cultivated grape variety in Australia is Shiraz, known for high levels of tannins and notes of
+          blackberry, mint and black pepper.
+          <br><br>
+          Chardonnay wine tends to be medium to light body with noticeable acidity and flavors of green plum, apple, and pear. In warmer locations like Adelaide Hills and Mornington Peninsula, the flavors become more citrus, peach, and melon.
+          <br><br>
+          <span class="source-text">Source: <a href="https://en.wikipedia.org/wiki/Australian_wine"
+              target="_blank">Wikipedia</a>
+          </span>
+        </p>
+
+      </div>
+
+    </div>
+
+    <!-- Group 3 -->
+    <div class="pure-g">
+
+      <div class="pure-u-8-24">
+        <h3>Consumption</h3>
+        <p>
+          Apparent consumption of alcohol refers to the total amount of alcohol produced or imported
+          that will be sold to people living in Australia.
+          <br><br>
+          Per capita wine consumption remains at one of the highest levels in the last 60 years, and accounted for 42%
+          of the total apparent alcohol consumption, making it the largest category.
+          <br><br>
+          Beer consumption continued its long-standing decline, dropping to 3.5 litres of
+          pure alcohol consumed per person in 2020, marking the lowest level since the 1940s.
+          <br><br>
+          Spirits saw a 19% increase in availability from 1.8 litres of alcohol per capita in 2017 to 2.1 litres in
+          2020.
+          <br><br>
+          Cider continues to make up a small portion of the total amount of alcohol made available in Australia.
+          <br><br>
+          <span class="source-text">Source: <a
+              href="https://www.aihw.gov.au/reports/alcohol/apparent-consumption-of-alcohol-in-australia/contents/apparent-consumption-of-alcohol-in-australia-1944"
+              target="_blank">Australian Institute of Health and Welfare</a>
+          </span>
+        </p>
+      </div>
+
+      <div class="pure-u-4-24">
+        <br><br>
+        <div id="pie-consumption" class="vis-container"></div>
+      </div>
+
+      <div class="pure-u-4-24">
+        <h3>Imports and Exports</h3>
+        <p>
+          Australian wine has gained global recognition,and are now exported to over 100 countries, making it one of the
+          top wine-exporting nations.
+          <br><br>
+          In 2023, 621 million litres of wine were exported, valued at $1.86 billion. The top destination market by
+          value was the UK with 19%, closely followed by the US, also with 19%.
+          <br><br>
+          In the domestic market, Australian wine sales makes up 82% of sales, with an estimated 444 million litres.
+          <br><br>
+          <span class="source-text">Source: <a
+              href="https://www.wineaustralia.com/market-insights/australian-wine-sector-at-a-glance"
+              target="_blank">Wine Australia</a>
+          </span>
+
+        </p>
+      </div>
+
+      <div class="pure-u-8-24">
+        <br><br>
+        <div id="imports-exports" class="vis-container"></div>
+      </div>
+
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <p>
+        <span class="source-text">
+          Visualisation created by Thomas Doyle in October 2024. Data obtained from 
+            <a href="https://economics.adelaide.edu.au/wine-economics/databases#">The University of Adelaide</a>, 
+            <a href="https://www.aihw.gov.au/reports/alcohol/apparent-consumption-of-alcohol-in-australia/contents/apparent-consumption-of-alcohol-in-australia-1944">The Australian Institute of Health and Welfare</a>, 
+            <a href="https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files">The Australian Bureau of Statistics</a>, and
+            <a href="https://www.naturalearthdata.com/downloads/110m-physical-vectors/">Natural earth data</a>.         
+        </span>
+      </p>
+        <br>
+      </div>
+    </div>
+
+  </div> <!-- End of page -->
+
+
+  <script type="text/javascript">
+
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+
+    var spec1 = "scatterplot-price-production.vg.json";
+    vegaEmbed('#scatter', spec1, { "actions": false }).then(function (result) {
+    }).catch(console.error);
+
+    // var spec2 = "map-choropleth-region.vg.json";
+    // vegaEmbed('#map', spec2, { "actions": false }).then(function(result) {
+    // }).catch(console.error);
+
+    var spec3 = "pie-apparent-consumption.vg.json";
+    vegaEmbed('#pie-consumption', spec3, { "actions": false }).then(function (result) {
+    }).catch(console.error);
+
+    var spec4 = "area-graph-origin-country.vg.json";
+    vegaEmbed('#country', spec4, { "actions": false }).then(function (result) {
+    }).catch(console.error);
+
+    var spec5 = "map-choropleth-region.vg.json";
+    vegaEmbed('#map-region', spec5, { "actions": false }).then(function (result) {
+    }).catch(console.error);
+
+    var spec6 = "map-choropleth-state.vg.json";
+    vegaEmbed('#map-state', spec6, { "actions": false }).then(function (result) {
+    }).catch(console.error);
+
+    var spec7 = "line-imports-exports.vg.json";
+    vegaEmbed('#imports-exports', spec7, { "actions": false }).then(function (result) {
+    }).catch(console.error);
+
+  </script>
+
+</body>
+
+</html>

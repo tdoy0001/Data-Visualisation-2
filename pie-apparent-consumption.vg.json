@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Pie Chart with percentage_tooltip",
+    "title": "Apparent Consumption 2020",
+    "height": 300,
+    "width": 50,
+    "data": {
+      "url": "data/Apparent_Consumption_AIHW_2020.csv"
+    },
+    "encoding": {
+      "theta": {"field": "Pure volume per capita (L)", "type": "quantitative", "stack": true},
+      "color": {
+        "field": "Alcohol Type",
+        "type": "nominal",
+        "legend": null,
+        "scale": {
+          "domain": ["White wines", "Red wines", "Other wines", "Beer", "Spirits", "RTDs", "Cider"],
+          "range": ["#F4E04D", "#8B0000", "#FFB6C1", "#F28E1C", "#4682B4", "#DDA0DD", "#32CD32"]
+        }
+      },
+      "tooltip": [
+          {"field": "Alcohol Type", "type": "nominal"},
+          {"field": "Pure volume (%)", "type": "quantitative", "format": ".0%"},
+          {"field": "Pure volume per capita (L)", "type": "quantitative"},
+          {"field": "Pure volume (1000L)", "type": "quantitative"}
+        ]
+    },
+    "layer": [{
+      "mark": {"type": "arc", "outerRadius": 80}
+    }, {
+      "mark": {"type": "text", "radius": 102},
+      "encoding": {
+        "text": {"field": "Alcohol Type", "type": "nominal"},
+        "color": {"value": "black"}, 
+        "tooltip": [
+          {"field": "Alcohol Type", "type": "nominal"},
+          {"field": "Pure volume (%)", "type": "quantitative", "format": ".0%"},
+          {"field": "Pure volume per capita (L)", "type": "quantitative"},
+          {"field": "Pure volume (1000L)", "type": "quantitative"}
+        ]
+      }
+    }]
+}
+  
