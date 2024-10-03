@@ -4,8 +4,8 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    height: 20vh;
-    position: relative;
+    height: 150px;
+    /* position: relative; */
     padding: 30px;
 }
 
