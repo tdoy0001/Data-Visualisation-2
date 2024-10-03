@@ -2,8 +2,12 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Pie Chart with percentage_tooltip",
     "title": "Apparent Consumption 2020",
-    "height": 300,
-    "width": 50,
+    "width": "container",
+    "height": 350,
+    "autosize": {
+      "type": "fit",
+      "contains": "padding"
+    },
     "data": {
       "url": "data/Apparent_Consumption_AIHW_2020.csv"
     },

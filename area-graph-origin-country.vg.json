@@ -1,8 +1,12 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title":"Winegrape production by origin country",
-    "height":260,
-    "width":350,
+    "width": "container",
+    "height": 350,
+    "autosize": {
+        "type": "fit",
+        "contains": "padding"
+    },
     "data": {"url": "data/Origin-Country.csv"},
     "transform": [{
         "calculate": "if(datum.Country === 'France', 0, if(datum.Country === 'Spain', 1, if(datum.Country === 'Greece', 2, if(datum.Country === 'Turkey', 3, 4))))",
