@@ -13,7 +13,7 @@
       "value": 2023,
       "bind": {
         "input": "range",
-        "min": 2010,
+        "min": 2001,
         "max": 2023,
         "step": 1,
         "name": "Year: "
@@ -160,50 +160,100 @@
           "filter": "datum.Year == Year_selection"
         }
       ],
-      "mark": {
-        "type": "geoshape",
-        "stroke": "black",
-        "strokeWidth": 0.8
-      },
-      "encoding": {
-        "shape": {
-          "field": "geo",
-          "type": "geojson"
-        },
-        "color": {
-          "field": "Yield",
-          "type": "quantitative",
-          "title": "Yield (t/ha)",
-          "scale": {
-            "domain":[
-              0,
-              25
+      "layer": [
+        {
+          "mark": {
+            "type": "geoshape",
+            "stroke": "black",
+            "strokeWidth": 0.8
+          },
+          "encoding": {
+            "shape": {
+              "field": "geo",
+              "type": "geojson"
+            },
+            "color": {
+              "field": "Yield",
+              "type": "quantitative",
+              "title": "Yield (t/ha)",
+              "scale": {
+                "domain": [
+                  0,
+                  25
+                ]
+              }
+            },
+            "tooltip": [
+              {
+                "field": "Region",
+                "type": "nominal",
+                "title": "Region"
+              },
+              {
+                "field": "Yield",
+                "type": "quantitative",
+                "title": "Yield (t/ha)"
+              },
+              {
+                "field": "Production",
+                "type": "quantitative",
+                "title": "Production (t)"
+              },
+              {
+                "field": "Area",
+                "type": "quantitative",
+                "title": "Area (ha)"
+              }
             ]
           }
         },
-        "tooltip": [
-          {
-            "field": "Region",
-            "type": "nominal",
-            "title": "Region"
+        {
+          "transform": [
+            {
+              "window": [
+                {
+                  "op": "rank",
+                  "as": "ranking"
+                }
+              ],
+              "sort": [
+                {
+                  "field": "Yield",
+                  "order": "descending"
+                },
+                {
+                  "field": "Production",
+                  "order": "descending"
+                }
+              ]
+            },
+            {
+              "filter": "datum.ranking == 1"
+            },
+            {
+              "calculate": "'The highest yield region in ' + datum['Year'] + ';was ' + datum['Region'] + ' with ' + datum['Yield'] ",
+              "as": "text_annotation_raw"
+            },
+            {
+              "calculate": "split(datum.text_annotation_raw,';')",
+              "as": "text_annotation"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "right",
+            "dx": 10,
+            "dy": 140,
+            "baseline": "middle",
+            "fontStyle": "italic"
           },
-          {
-            "field": "Yield",
-            "type": "quantitative",
-            "title": "Yield (t/ha)"
-          },
-          {
-            "field": "Production",
-            "type": "quantitative",
-            "title": "Production (t)"
-          },
-          {
-            "field": "Area",
-            "type": "quantitative",
-            "title": "Area (ha)"
+          "encoding": {
+            "text": {
+              "field": "text_annotation"
+            }
           }
-        ]
-      }
+        }
+      ]
     }
   ]
 }

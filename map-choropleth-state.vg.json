@@ -13,7 +13,7 @@
             "value": 2023,
             "bind": {
                 "input": "range",
-                "min": 2010,
+                "min": 2001,
                 "max": 2023,
                 "step": 1,
                 "name": "Year: "
@@ -31,19 +31,19 @@
     "layer": [
         {
             "data": {
-              "url": "json/Australian-Wine-Regions-Graticules.json",
-              "format": {
-                "type": "topojson",
-                "feature": "ne_110m_graticules_10"
-              }
+                "url": "json/Australian-Wine-Regions-Graticules.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "ne_110m_graticules_10"
+                }
             },
             "mark": {
-              "type": "geoshape",
-              "fillOpacity": 0,
-              "stroke": "lightgrey",
-              "strokeWidth": 0.5
+                "type": "geoshape",
+                "fillOpacity": 0,
+                "stroke": "lightgrey",
+                "strokeWidth": 0.5
             }
-          },
+        },
         {
             "data": {
                 "url": "data/State-Data.csv"
@@ -67,6 +67,7 @@
                     "filter": "datum.Year == Year_selection"
                 }
             ],
+            "layer": [{
             "mark": {
                 "type": "geoshape",
                 "stroke": "white",
@@ -107,6 +108,54 @@
                     }
                 ]
             }
+        },{
+            "transform": [
+              {
+                "window": [
+                  {
+                    "op": "rank",
+                    "as": "ranking"
+                  }
+                ],
+                "sort": [
+                  {
+                    "field": "Yield",
+                    "order": "descending"
+                  },
+                  {
+                    "field": "Production",
+                    "order": "descending"
+                  }
+                ]
+              },
+              {
+                "filter": "datum.ranking == 1"
+              },
+              {
+                "calculate": "'The highest yield state in ' + datum['Year'] + ';was ' + datum['State'] + ' with ' + datum['Yield'] ",
+                "as": "text_annotation_raw"
+              },
+              {
+                "calculate": "split(datum.text_annotation_raw,';')",
+                "as": "text_annotation"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "align": "right",
+              "dx": 20,
+              "dy": 140,
+              "baseline": "middle",
+              "fontStyle": "italic"
+            },
+            "encoding": {
+              "text": {
+                "field": "text_annotation"
+              }
+            }
+          }
+    
+    ]
         }
     ]
 }
