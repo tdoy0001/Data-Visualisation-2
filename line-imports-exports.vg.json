@@ -10,44 +10,111 @@
   "data": {
     "url": "data/Imports-Exports.csv"
   },
-  "mark": "line",
-  "transform": [
+  "layer": [
     {
-      "filter": "datum['Total value ($1000)'] > 0"
-    }
-  ],
-  "encoding": {
-    "x": {
-      "field": "Year",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "Total value ($1000)",
-      "type": "quantitative",
-      "scale": {
-        "type": "log"
-      },
-      "axis": {"tickCount": 7}
-    },
-    "color": {
-      "field": "Type",
-      "type": "nominal",
-      "scale": {
-        "domain": [
-          "Export",
-          "Import"
-        ],
-        "range": [
-          "#ff7f0e",
-          "#1f77b4"
+      "mark": "line",
+      "transform": [
+        {
+          "filter": "datum['Total value ($1000)'] > 0"
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "Total value ($1000)",
+          "type": "quantitative",
+          "scale": {
+            "type": "log"
+          },
+          "axis": {
+            "tickCount": 7
+          }
+        },
+        "color": {
+          "field": "Type",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Export",
+              "Import"
+            ],
+            "range": [
+              "#ff7f0e",
+              "#1f77b4"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Type",
+            "type": "nominal"
+          },
+          {
+            "field": "Year",
+            "type": "temporal",
+            "format": "%Y"
+          },
+          {
+            "field": "Total value ($1000)",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "Value per litre (cents)",
+            "type": "quantitative",
+            "format": ","
+          }
         ]
       }
     },
-    "tooltip": [
-          {"field": "Type", "type": "nominal"},
-          {"field": "Year", "type": "temporal", "format": "%Y" },
-          {"field": "Total value ($1000)", "type": "quantitative", "format": ","},
-          {"field": "Value per litre (cents)", "type": "quantitative", "format": ","}
-    ]
-  }
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 12,
+        "fontSize": 10,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": { "value": "Exports peak in 2007" },
+        "color": { "value": "black" },
+        "opacity": {
+          "condition": {
+            "test": "datum['Total value ($1000)'] == 2878598  ",
+            "value": 1
+          },
+          "value": 0
+        },
+        "x": { "value": 170 },
+        "y": { "value": 20 }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 12,
+        "fontSize": 10,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": { "value": "Imports trough in 1944" },
+        "color": { "value": "black" },
+        "opacity": {
+          "condition": {
+            "test": "datum['Total value ($1000)'] == 2  ",
+            "value": 1
+          },
+          "value": 0
+        },
+        "x": { "value": 125 },
+        "y": { "value": 265 }
+      }
+    }
+  ]
 }
